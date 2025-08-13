@@ -1,0 +1,1737 @@
+[
+    {
+        "name": "Handgun",
+        "category": [
+            "Weapon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Punisher",
+        "category": [
+            "Weapon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Red9",
+        "category": [
+            "Weapon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Blacktail",
+        "category": [
+            "Weapon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Shotgun",
+        "category": [
+            "Weapon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Riot Gun",
+        "category": [
+            "Weapon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Striker",
+        "category": [
+            "Weapon"
+        ],
+        "progression": true
+    },
+	{
+		"name": "Mine Thrower",
+		"category": [
+			"Weapon"
+		],
+		"progression": true
+	},
+    {
+        "name": "TMP",
+        "category": [
+            "Weapon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Broken Butterfly",
+        "category": [
+            "Weapon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Killer7",
+        "category": [
+            "Weapon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Rifle",
+        "category": [
+            "Weapon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Semi-Auto Rifle",
+        "category": [
+            "Weapon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Rocket Launcher",
+        "category": [
+            "Single Use Weapon"
+        ],
+        "useful": true
+    },
+	{
+        "name": "Handgun Ammo",
+        "category": [
+            "Ammo"
+        ],
+		"count": 30,
+        "normal": true
+    },
+	{
+        "name": "Shotgun Shells",
+        "category": [
+            "Ammo"
+        ],
+		"count": 30,
+        "normal": true
+    },
+	{
+        "name": "TMP Ammo",
+        "category": [
+            "Ammo"
+        ],
+		"count": 30,
+        "normal": true
+    },
+	{
+        "name": "Rifle Ammo",
+        "category": [
+            "Ammo"
+        ],
+		"count": 30,
+        "normal": true
+    },
+	{
+        "name": "Magnum Bullets",
+        "category": [
+            "Ammo"
+        ],
+		"count": 30,
+        "normal": true
+    },
+	{
+        "name": "Crossbow Bolts",
+        "category": [
+            "Ammo"
+        ],
+		"count": 30,
+        "normal": true
+    },
+	{
+        "name": "Egg",
+        "category": [
+            "Ammo"
+        ],
+		"count": 20,
+        "normal": true
+    },
+    {
+        "name": "Hand Grenade",
+        "category": [
+            "Single Use Weapon"
+        ],
+		"count": 20,
+        "progression": true
+    },
+    {
+        "name": "Flash Grenade",
+        "category": [
+            "Single Use Weapon"
+        ],
+		"count": 20,
+        "progression": true
+    },
+    {
+        "name": "Incendiary Grenade",
+        "category": [
+            "Single Use Weapon"
+        ],
+		"count": 20,
+        "progression": true
+    },
+    {
+        "name": "Matilda",
+        "category": [
+            "Matilda",
+			"Weapon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Infinite Launcher",
+        "category": [
+            "Infinite Launcher",
+			"Weapon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Chicago Typewriter",
+        "category": [
+            "Chicago Typewriter",
+			"Weapon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Handcannon",
+        "category": [
+            "Handcannon",
+			"Weapon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "P.R.L. 412",
+        "category": [
+            "P.R.L. 412",
+			"Weapon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Green Herb",
+        "category": [
+            "Healing"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Red Herb",
+        "category": [
+            "Healing"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Yellow Herb",
+        "category": [
+            "Healing"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Mixed Herb Recipes",
+        "category": [
+            "Healing"
+        ],
+        "useful": true
+    },
+    {
+        "name": "First Aid Spray",
+        "category": [
+            "Healing"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Black Bass",
+        "category": [
+            "Healing"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Black Bass (L)",
+        "category": [
+            "Healing"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Chicken Egg",
+        "category": [
+            "Healing"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Brown Chicken Egg",
+        "category": [
+            "Healing"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Gold Chicken Egg",
+        "category": [
+            "Healing"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Progressive Firepower (Handgun)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Firing Speed (Handgun)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 2,
+        "progression": true
+    },
+    {
+        "name": "Progressive Reload Speed (Handgun)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 2,
+        "progression": true
+    },
+    {
+        "name": "Progressive Capacity (Handgun)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Firepower (Red9)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Firing Speed (Red9)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 2,
+        "progression": true
+    },
+    {
+        "name": "Progressive Reload Speed (Red9)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 2,
+        "progression": true
+    },
+    {
+        "name": "Progressive Capacity (Red9)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Firepower (Punisher)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Firing Speed (Punisher)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 2,
+        "progression": true
+    },
+    {
+        "name": "Progressive Reload Speed (Punisher)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 2,
+        "progression": true
+    },
+    {
+        "name": "Progressive Capacity (Punisher)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Firepower (Blacktail)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Firing Speed (Blacktail)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 2,
+        "progression": true
+    },
+    {
+        "name": "Progressive Reload Speed (Blacktail)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 2,
+        "progression": true
+    },
+    {
+        "name": "Progressive Capacity (Blacktail)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Firepower (Matilda)",
+        "category": [
+            "Merchant Upgrade",
+			"Matilda"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Reload Speed (Matilda)",
+        "category": [
+            "Merchant Upgrade",
+			"Matilda"
+        ],
+        "count": 2,
+        "progression": true
+    },
+    {
+        "name": "Progressive Capacity (Matilda)",
+        "category": [
+            "Merchant Upgrade",
+			"Matilda"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Firepower (Broken Butterfly)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Reload Speed (Broken Butterfly)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 2,
+        "progression": true
+    },
+    {
+        "name": "Progressive Capacity (Broken Butterfly)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 3,
+        "progression": true
+    },
+	{
+		"name": "Progressive Firepower (Mine Thrower)",
+		"category": [
+			"Merchant Upgrade"
+		],
+		"count": 2,
+		"progression": true
+	},
+	{
+		"name": "Progressive Capacity (Mine Thrower)",
+		"category": [
+			"Merchant Upgrade"
+		],
+		"count": 2,
+		"progression": true
+	},
+	{
+		"name": "Progressive Reload Speed (Mine Thrower)",
+		"category": [
+			"Merchant Upgrade"
+		],
+		"progression": true
+	},
+    {
+        "name": "Progressive Firepower (Killer7)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 2,
+        "progression": true
+    },
+    {
+        "name": "Progressive Reload Speed (Killer7)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 2,
+        "progression": true
+    },
+    {
+        "name": "Progressive Capacity (Killer7)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 2,
+        "progression": true
+    },
+    {
+        "name": "Progressive Firepower (Handcannon)",
+        "category": [
+            "Merchant Upgrade",
+			"Handcannon"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Reload Speed (Handcannon)",
+        "category": [
+            "Merchant Upgrade", 
+			"Handcannon"
+        ],
+        "count": 2,
+        "progression": true
+    },
+    {
+        "name": "Progressive Capacity (Handcannon)",
+        "category": [
+            "Merchant Upgrade",
+			"Handcannon"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Firepower (Shotgun)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Reload Speed (Shotgun)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 2,
+        "progression": true
+    },
+    {
+        "name": "Progressive Capacity (Shotgun)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Firepower (Riot Gun)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Reload Speed (Riot Gun)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 2,
+        "progression": true
+    },
+    {
+        "name": "Progressive Capacity (Riot Gun)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Firepower (Striker)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Reload Speed (Striker)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 2,
+        "progression": true
+    },
+    {
+        "name": "Progressive Capacity (Striker)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Firepower (Rifle)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Reload Speed (Rifle)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 2,
+        "progression": true
+    },
+    {
+        "name": "Progressive Capacity (Rifle)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Firepower (Semi-Auto Rifle)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Reload Speed (Semi-Auto Rifle)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 2,
+        "progression": true
+    },
+    {
+        "name": "Progressive Capacity (Semi-Auto Rifle)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Firepower (TMP)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Progressive Reload Speed (TMP)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 2,
+        "progression": true
+    },
+    {
+        "name": "Progressive Capacity (TMP)",
+        "category": [
+            "Merchant Upgrade"
+        ],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Stock (Red9)",
+        "category": [
+            "Merchant Upgrade",
+			"Weapon Enhancement"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Stock (TMP)",
+        "category": [
+            "Merchant Upgrade",
+			"Weapon Enhancement"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Scope (Rifle)",
+        "category": [
+            "Merchant Upgrade",
+			"Weapon Enhancement"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Scope (Semi-Auto Rifle)",
+        "category": [
+            "Merchant Upgrade",
+			"Weapon Enhancement"
+        ],
+        "progression": true
+    },
+	{
+		"name": "Scope (Mine Thrower)",
+		"category": [
+			"Merchant Upgrade",
+			"Weapon Enhancement"
+		],
+		"progression": true
+	},
+    {
+        "name": "Exclusive Upgrade (Handgun)",
+        "category": [
+            "Merchant Exclusive"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Exclusive Upgrade (Red9)",
+        "category": [
+            "Merchant Exclusive"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Exclusive Upgrade (Punisher)",
+        "category": [
+            "Merchant Exclusive"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Exclusive Upgrade (Blacktail)",
+        "category": [
+            "Merchant Exclusive"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Exclusive Upgrade (Matilda)",
+        "category": [
+            "Merchant Exclusive",
+			"Matilda"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Exclusive Upgrade (Broken Butterfly)",
+        "category": [
+            "Merchant Exclusive"
+        ],
+        "progression": true
+    },
+	{
+		"name": "Exclusive Upgrade (Mine Thrower)",
+		"category": [
+			"Merchant Exclusive"
+		],
+		"progression": true
+	},
+    {
+        "name": "Exclusive Upgrade (Handcannon)",
+        "category": [
+            "Merchant Exclusive",
+			"Handcannon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Exclusive Upgrade (Shotgun)",
+        "category": [
+            "Merchant Exclusive"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Exclusive Upgrade (Riot Gun)",
+        "category": [
+            "Merchant Exclusive"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Exclusive Upgrade (Striker)",
+        "category": [
+            "Merchant Exclusive"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Exclusive Upgrade (Rifle)",
+        "category": [
+            "Merchant Exclusive"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Exclusive Upgrade (Semi-Auto Rifle)",
+        "category": [
+            "Merchant Exclusive"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Exclusive Upgrade (TMP)",
+        "category": [
+            "Merchant Exclusive"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Emblem (Left Half)",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Emblem (Right Half)",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Insignia Key",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Round Insignia",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Old Key",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Camp Key",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "False Eye",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Platinum Sword",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Gold Sword",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Castle Gate Key",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Prison Key",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Gallery Key",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Goat Ornament",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Lion Ornament",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Serpent Ornament",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Moonstone (Left Half)",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Moonstone (Right Half)",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Stone Tablet",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Salazar Family Insignia",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Queen's Grail",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "King's Grail",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Dynamite",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Key To The Mine",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Stone Of Sacrifice",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Freezer Card Key",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Infrared Scope",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Waste Disposal Card Key",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Storage Room Card Key",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Piece Of The Holy Beast Panther",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Piece Of The Holy Beast Eagle",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Piece Of The Holy Beast Serpent",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Emergency Lock Card Key",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Special Rocket Launcher",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Jet-ski Key",
+        "category": [
+            "Key Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Progressive Attache Case",
+        "category": [
+            "Miscellaneous"
+        ],
+		"count": 3,
+        "progression": true
+    },
+    {
+        "name": "Treasure Map (Village)",
+        "category": [
+            "Miscellaneous"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Treasure Map (Castle)",
+        "category": [
+            "Miscellaneous"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Treasure Map (Island)",
+        "category": [
+            "Miscellaneous"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Tactical Vest",
+        "category": [
+            "Miscellaneous"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Blue Medallion",
+        "category": [
+            "Merchant Sidequest"
+        ],
+        "count": 15,
+        "progression": true
+    },
+	{
+		"name": "Bottle Cap (Leon w/ Rocket Launcher)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Leon w/ Shotgun)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Leon w/ Handgun)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Ashley Graham)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Luis Sera)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Ada Wong)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Don Jose)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Don Diego)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Don Esteban)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Don Manuel)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Doctor Salvador)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Bella Sisters)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Merchant)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Zealot w/ Scythe)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Zealot w/ Shield)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Zealot w/ Bowgun)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Leader Zealot)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Don Pedro)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Soldier w/ Dynamite)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Soldier w/ Stun-Rod)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Soldier w/ Hammer)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Isabel)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (Maria)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Bottle Cap (J.J.)",
+		"category": [
+			"Merchant Sidequest"
+		],
+		"normal": true
+	},
+	{
+		"name": "Pile Of Gold",
+		"category": [
+			"Treasure"
+		],
+		"count": 700,
+		"normal": true
+	},
+    {
+        "name": "Spinel",
+        "category": [
+            "Treasure"
+        ],
+		"count": 79,
+        "normal": true
+    },
+    {
+        "name": "Velvet Blue",
+        "category": [
+            "Treasure"
+        ],
+		"count": 40,
+        "normal": true
+    },
+    {
+        "name": "Ruby",
+        "category": [
+            "Treasure"
+        ],
+		"count": 5,
+        "normal": true
+    },
+    {
+        "name": "Emerald",
+        "category": [
+            "Treasure"
+        ],
+		"count": 13,
+        "normal": true
+    },
+    {
+        "name": "Pearl Pendant",
+        "category": [
+            "Treasure"
+        ],
+		"count": 2,
+        "normal": true
+    },
+	{
+        "name": "Dirty Pearl Pendant",
+        "category": [
+            "Treasure"
+        ],
+		"count": 2,
+        "normal": true
+    },
+    {
+        "name": "Brass Pocket Watch",
+        "category": [
+            "Treasure"
+        ],
+		"count": 2,
+        "normal": true
+    },
+	{
+        "name": "Dirty Brass Pocket Watch",
+        "category": [
+            "Treasure"
+        ],
+		"count": 2,
+        "normal": true
+    },
+    {
+        "name": "Elegant Headdress",
+        "category": [
+            "Treasure"
+        ],
+		"count": 2,
+        "normal": true
+    },
+    {
+        "name": "Antique Pipe",
+        "category": [
+            "Treasure"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Gold Bangle w/ Pearls",
+        "category": [
+            "Treasure"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Amber Ring",
+        "category": [
+            "Treasure"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Red Catseye",
+        "category": [
+            "Treasure"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Yellow Catseye",
+        "category": [
+            "Treasure"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Beerstein",
+        "category": [
+            "Treasure"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Green Eye",
+        "category": [
+            "Treasure"
+        ],
+		"count": 10,
+        "normal": true
+    },
+    {
+        "name": "Blue Eye",
+        "category": [
+            "Treasure"
+        ],
+		"count": 10,
+        "normal": true
+    },
+    {
+        "name": "Red Eye",
+        "category": [
+            "Treasure"
+        ],
+		"count": 10,
+        "normal": true
+    },
+    {
+        "name": "Butterfly Lamp",
+        "category": [
+            "Treasure"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Green Gem",
+        "category": [
+            "Treasure"
+        ],
+		"count": 2,
+        "normal": true
+    },
+    {
+        "name": "Red Gem",
+        "category": [
+            "Treasure"
+        ],
+		"count": 2,
+        "normal": true
+    },
+    {
+        "name": "Purple Gem",
+        "category": [
+            "Treasure"
+        ],
+		"count": 2,
+        "normal": true
+    },
+    {
+        "name": "Elegant Mask",
+        "category": [
+            "Treasure"
+        ],
+		"count": 2,
+        "normal": true
+    },
+    {
+        "name": "Gold Bangle",
+        "category": [
+            "Treasure"
+        ],
+		"count": 5,
+        "normal": true
+    },
+    {
+        "name": "Illuminados Pendant",
+        "category": [
+            "Treasure"
+        ],
+		"count": 2,
+        "normal": true
+    },
+    {
+        "name": "Staff Of Royalty",
+        "category": [
+            "Treasure"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Elegant Chessboard",
+        "category": [
+            "Treasure"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Elegant Perfume Bottle",
+        "category": [
+            "Treasure"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Mirror w/ Pearls & Rubies",
+        "category": [
+            "Treasure"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Crown Jewel",
+        "category": [
+            "Treasure"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Royal Insignia",
+        "category": [
+            "Treasure"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Crown",
+        "category": [
+            "Treasure"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Green Stone of Judgement",
+        "category": [
+            "Treasure"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Red Stone of Faith",
+        "category": [
+            "Treasure"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Blue Stone of Treason",
+        "category": [
+            "Treasure"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Golden Lynx",
+        "category": [
+            "Treasure"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Separate Ways",
+        "category": [
+            "Separate Ways"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Iron Key",
+        "category": [
+            "Separate Ways"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Lift Activation Key",
+        "category": [
+            "Separate Ways"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Green Catseye",
+        "category": [
+            "Separate Ways"
+        ],
+        "progression": true
+    },
+	{
+        "name": "Hourglass w/ Gold Decor",
+        "category": [
+            "Separate Ways"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Activation Key (Blue)",
+        "category": [
+            "Separate Ways"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Activation Key (Red)",
+        "category": [
+            "Separate Ways"
+        ],
+        "progression": true
+    },
+	{
+        "name": "Chapter 1 Complete",
+        "category": [
+            "Separate Ways"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Chapter 2 Complete",
+        "category": [
+            "Separate Ways"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Chapter 3 Complete",
+        "category": [
+            "Separate Ways"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Chapter 4 Complete",
+        "category": [
+            "Separate Ways"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Chapter 5 Complete",
+        "category": [
+            "Separate Ways"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Separate Ways Complete",
+        "category": [
+            "Separate Ways"
+        ],
+        "progression": true
+    },
+	    {
+        "name": "Mercenaries Mode",
+        "category": [
+            "Mercenaries"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Character Unlock (Leon)",
+        "category": [
+            "Mercenaries"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Character Unlock (Ada)",
+        "category": [
+            "Mercenaries"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Character Unlock (Krauser)",
+        "category": [
+            "Mercenaries"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Character Unlock (Wesker)",
+        "category": [
+            "Mercenaries"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Character Unlock (HUNK)",
+        "category": [
+            "Mercenaries"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Stage Unlock (Village Center)",
+        "category": [
+            "Mercenaries"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Stage Unlock (Castle Wall)",
+        "category": [
+            "Mercenaries"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Stage Unlock (Island Camp)",
+        "category": [
+            "Mercenaries"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Stage Unlock (Dockyard)",
+        "category": [
+            "Mercenaries"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Krauser's Bow",
+        "category": [
+            "Mercenaries"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Extra Time Bonus",
+        "category": [
+            "Mercenaries"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Mercenaries Complete",
+        "category": [
+            "Mercenaries"
+        ],
+        "progression": true
+    }
+]
