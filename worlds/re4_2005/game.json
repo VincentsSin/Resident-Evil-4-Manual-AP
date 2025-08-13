@@ -1,0 +1,21 @@
+{
+    "game": "ResidentEvil4",
+    "player": "VincentsSin",
+    "filler_item_name": "Plaga Virus",
+	"death_link": true,
+    "starting_items": [
+        {
+            "items": [
+                "Handgun"
+            ],
+			"yaml_option":["!NewGamePlus"]
+        },
+		{
+			"item_categories": [
+				"Weapon"
+			],
+			"random": 1,
+			"yaml_option":["NewGamePlus"]
+		}
+    ]
+}
