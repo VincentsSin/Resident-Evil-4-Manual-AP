@@ -102,7 +102,7 @@
         "category": [
             "Ammo"
         ],
-		"count": 30,
+		"count": 134,
         "normal": true
     },
 	{
@@ -110,7 +110,7 @@
         "category": [
             "Ammo"
         ],
-		"count": 30,
+		"count": 90,
         "normal": true
     },
 	{
@@ -118,7 +118,7 @@
         "category": [
             "Ammo"
         ],
-		"count": 30,
+		"count": 48,
         "normal": true
     },
 	{
@@ -126,23 +126,23 @@
         "category": [
             "Ammo"
         ],
-		"count": 30,
+		"count": 63,
         "normal": true
     },
 	{
-        "name": "Magnum Bullets",
+        "name": "Magnum Ammo",
         "category": [
             "Ammo"
         ],
-		"count": 30,
+		"count": 11,
         "normal": true
     },
 	{
-        "name": "Crossbow Bolts",
+        "name": "Bowgun Bolts",
         "category": [
             "Ammo"
         ],
-		"count": 30,
+		"count": 15,
         "normal": true
     },
 	{
@@ -150,7 +150,7 @@
         "category": [
             "Ammo"
         ],
-		"count": 20,
+		"count": 27,
         "normal": true
     },
     {
@@ -158,7 +158,7 @@
         "category": [
             "Single Use Weapon"
         ],
-		"count": 20,
+		"count": 72,
         "progression": true
     },
     {
@@ -166,7 +166,7 @@
         "category": [
             "Single Use Weapon"
         ],
-		"count": 20,
+		"count": 74,
         "progression": true
     },
     {
@@ -174,46 +174,41 @@
         "category": [
             "Single Use Weapon"
         ],
-		"count": 20,
+		"count": 71,
         "progression": true
     },
     {
         "name": "Matilda",
         "category": [
-            "Matilda",
-			"Weapon"
+            "Matilda"
         ],
         "progression": true
     },
     {
         "name": "Infinite Launcher",
         "category": [
-            "Infinite Launcher",
-			"Weapon"
+            "Infinite Launcher"
         ],
         "useful": true
     },
     {
         "name": "Chicago Typewriter",
         "category": [
-            "Chicago Typewriter",
-			"Weapon"
+            "Chicago Typewriter"
         ],
         "useful": true
     },
     {
         "name": "Handcannon",
         "category": [
-            "Handcannon",
-			"Weapon"
+            "Handcannon"
         ],
         "progression": true
     },
     {
         "name": "P.R.L. 412",
         "category": [
-            "P.R.L. 412",
-			"Weapon"
+            "P.R.L. 412"
         ],
         "useful": true
     },
@@ -222,6 +217,7 @@
         "category": [
             "Healing"
         ],
+		"count": 108,
         "useful": true
     },
     {
@@ -229,6 +225,7 @@
         "category": [
             "Healing"
         ],
+		"count": 47,
         "useful": true
     },
     {
@@ -236,13 +233,7 @@
         "category": [
             "Healing"
         ],
-        "useful": true
-    },
-    {
-        "name": "Mixed Herb Recipes",
-        "category": [
-            "Healing"
-        ],
+		"count": 38,
         "useful": true
     },
     {
@@ -250,6 +241,7 @@
         "category": [
             "Healing"
         ],
+		"count": 10,
         "useful": true
     },
     {
@@ -257,6 +249,7 @@
         "category": [
             "Healing"
         ],
+		"count": 13,
         "normal": true
     },
     {
@@ -264,6 +257,7 @@
         "category": [
             "Healing"
         ],
+		"count": 4,
         "normal": true
     },
     {
@@ -271,6 +265,7 @@
         "category": [
             "Healing"
         ],
+		"count": 20,
         "normal": true
     },
     {
@@ -278,6 +273,7 @@
         "category": [
             "Healing"
         ],
+		"count": 4,
         "normal": true
     },
     {
@@ -285,6 +281,7 @@
         "category": [
             "Healing"
         ],
+		"count": 3,
         "normal": true
     },
     {
@@ -1279,7 +1276,7 @@
 		"category": [
 			"Treasure"
 		],
-		"count": 700,
+		"count": 350,
 		"normal": true
 	},
     {
