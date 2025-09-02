@@ -8,14 +8,14 @@
             "items": [
                 "Handgun"
             ],
-			"yaml_option":["!NewGamePlus"]
+			"yaml_option":["!New_Game_Plus"]
         },
 		{
 			"item_categories": [
 				"Weapon"
 			],
 			"random": 1,
-			"yaml_option":["NewGamePlus"]
+			"yaml_option":["New_Game_Plus"]
 		}
     ]
 }
