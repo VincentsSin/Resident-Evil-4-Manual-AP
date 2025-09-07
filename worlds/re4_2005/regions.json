@@ -1,17 +1,6 @@
 {
-	"Game Select": {
-        "starting": true,
-        "connects_to": [
-            "Chapter 1-1",
-            "Separate Ways Ch. 1",
-            "Mercenaries"
-        ],
-        "exit_requires": {
-            "Separate Ways Ch. 1": "{YamlEnabled(SeparateWays)} AND |Separate Ways|",
-            "Mercenaries": "{YamlEnabled(MercenariesMode)} AND |Mercenaries Mode|"
-        }
-    },
     "Chapter 1-1": {
+		"starting": true,
         "connects_to": [
             "Chapter 1-2",
 			"Chapter 1-1 Merchant",
@@ -38,28 +27,28 @@
 			"Chapter 5-3 Merchant B"
         ],
 		"exit_requires": {
-			"Chapter 1-1 Merchant": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 1-2 Merchant": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 1-3 Merchant A": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 1-3 Merchant B": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 2-1 Merchant": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 2-2 Merchant": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 3-1 Merchant A": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 3-1 Merchant B": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 3-1 Merchant C": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 3-3 Merchant A": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 3-3 Merchant B": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 4-1 Merchant A": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 4-1 Merchant B": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 4-1 Merchant C": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 4-2 Merchant": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 4-3 Merchant": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 4-4 Merchant A": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 4-4 Merchant B": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 5-1 Merchant A": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 5-1 Merchant B": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 5-3 Merchant A": "{YamlEnabled(NewGamePlus)}",
-			"Chapter 5-3 Merchant B": "{YamlEnabled(NewGamePlus)}"
+			"Chapter 1-1 Merchant": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 1-2 Merchant": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 1-3 Merchant A": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 1-3 Merchant B": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 2-1 Merchant": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 2-2 Merchant": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 3-1 Merchant A": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 3-1 Merchant B": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 3-1 Merchant C": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 3-3 Merchant A": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 3-3 Merchant B": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 4-1 Merchant A": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 4-1 Merchant B": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 4-1 Merchant C": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 4-2 Merchant": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 4-3 Merchant": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 4-4 Merchant A": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 4-4 Merchant B": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 5-1 Merchant A": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 5-1 Merchant B": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 5-3 Merchant A": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 5-3 Merchant B": "{YamlEnabled(New_Game_Plus)}"
 		}
     },
 	"Chapter 1-1 Merchant": {
@@ -182,7 +171,7 @@
             "Chapter 4-3"
         ],
 		"exit_requires": {
-			"Chapter 4-3": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Stone Tablet| AND |Salazar Family Insignia| AND |Serpent Ornament| AND |Lion Ornament| AND |Queen's Grail| AND |King's Grail| AND |Dynamite|"
+			"Chapter 4-3": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Stone Tablet| AND |Salazar Family Insignia| AND |Serpent Ornament| AND |Lion Ornament| AND |Queen's Grail| AND |King's Grail| AND (|Dynamite| OR ({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(InfiniteLauncher)}))"
 		}
     },
 	"Chapter 4-2 Merchant": {
@@ -193,7 +182,7 @@
 			"Chapter 4-3 Merchant"
         ],
 		"exit_requires": {
-			"Chapter 4-4": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Stone Tablet| AND |Salazar Family Insignia| AND |Serpent Ornament| AND |Lion Ornament| AND |Queen's Grail| AND |King's Grail| AND |Dynamite| AND |Key To The Mine| AND |Stone Of Sacrifice|"
+			"Chapter 4-4": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Stone Tablet| AND |Salazar Family Insignia| AND |Serpent Ornament| AND |Lion Ornament| AND |Queen's Grail| AND |King's Grail| AND (|Dynamite| OR ({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(InfiniteLauncher)})) AND |Key To The Mine| AND |Stone Of Sacrifice|"
 		}
     },
 	"Chapter 4-3 Merchant": {
@@ -216,7 +205,7 @@
 			"Chapter 5-1 Merchant B"
         ],
 		"exit_requires": {
-			"Chapter 5-2": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Stone Tablet| AND |Salazar Family Insignia| AND |Serpent Ornament| AND |Lion Ornament| AND |Queen's Grail| AND |King's Grail| AND |Dynamite| AND |Key To The Mine| AND |Stone Of Sacrifice| AND |Freezer Card Key| AND |Semi-Auto Rifle| AND |Infrared Scope| AND |Waste Disposal Card Key| AND |Storage Room Card Key|"
+			"Chapter 5-2": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Stone Tablet| AND |Salazar Family Insignia| AND |Serpent Ornament| AND |Lion Ornament| AND |Queen's Grail| AND |King's Grail| AND (|Dynamite| OR ({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(InfiniteLauncher)})) AND |Key To The Mine| AND |Stone Of Sacrifice| AND |Freezer Card Key| AND ((|Semi-Auto Rifle| AND |Infrared Scope|) OR (({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(InfiniteLauncher)}) OR ({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(Handcannon)}))) AND |Waste Disposal Card Key| AND |Storage Room Card Key|"
 		}
     },
 	"Chapter 5-1 Merchant A": {
@@ -235,7 +224,7 @@
 			"Chapter 5-3 Merchant B"
         ],
 		"exit_requires": {
-			"Chapter 5-4": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Stone Tablet| AND |Salazar Family Insignia| AND |Serpent Ornament| AND |Lion Ornament| AND |Queen's Grail| AND |King's Grail| AND |Dynamite| AND |Key To The Mine| AND |Stone Of Sacrifice| AND |Freezer Card Key| AND |Semi-Auto Rifle| AND |Infrared Scope| AND |Waste Disposal Card Key| AND |Storage Room Card Key| AND |Piece Of The Holy Beast Panther| AND |Piece Of The Holy Beast Eagle| AND |Piece Of The Holy Beast Serpent|"
+			"Chapter 5-4": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Stone Tablet| AND |Salazar Family Insignia| AND |Serpent Ornament| AND |Lion Ornament| AND |Queen's Grail| AND |King's Grail| AND (|Dynamite| OR ({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(InfiniteLauncher)})) AND |Key To The Mine| AND |Stone Of Sacrifice| AND |Freezer Card Key| AND ((|Semi-Auto Rifle| AND |Infrared Scope|) OR (({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(InfiniteLauncher)}) OR ({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(Handcannon)}))) AND |Waste Disposal Card Key| AND |Storage Room Card Key| AND |Piece Of The Holy Beast Panther| AND |Piece Of The Holy Beast Eagle| AND |Piece Of The Holy Beast Serpent|"
 		}
     },
 	"Chapter 5-3 Merchant A": {
@@ -247,39 +236,48 @@
             "Final Chapter"
         ],
 		"exit_requires": {
-			"Final Chapter": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Stone Tablet| AND |Salazar Family Insignia| AND |Serpent Ornament| AND |Lion Ornament| AND |Queen's Grail| AND |King's Grail| AND |Dynamite| AND |Key To The Mine| AND |Stone Of Sacrifice| AND |Freezer Card Key| AND |Semi-Auto Rifle| AND |Infrared Scope| AND |Waste Disposal Card Key| AND |Storage Room Card Key| AND |Piece Of The Holy Beast Panther| AND |Piece Of The Holy Beast Eagle| AND |Piece Of The Holy Beast Serpent| AND |Emergency Lock Card Key|"
+			"Final Chapter": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Stone Tablet| AND |Salazar Family Insignia| AND |Serpent Ornament| AND |Lion Ornament| AND |Queen's Grail| AND |King's Grail| AND (|Dynamite| OR ({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(InfiniteLauncher)})) AND |Key To The Mine| AND |Stone Of Sacrifice| AND |Freezer Card Key| AND ((|Semi-Auto Rifle| AND |Infrared Scope|) OR (({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(InfiniteLauncher)}) OR ({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(Handcannon)}))) AND |Waste Disposal Card Key| AND |Storage Room Card Key| AND |Piece Of The Holy Beast Panther| AND |Piece Of The Holy Beast Eagle| AND |Piece Of The Holy Beast Serpent| AND |Emergency Lock Card Key|"
 		}
     },
     "Final Chapter": {
     },
     "Separate Ways Ch. 1": {
-        "requires": "|Separate Ways|",
+		"starting": true,
         "connects_to": [
             "Separate Ways Ch. 2"
-        ]
+        ],
+		"exit_requires": {
+			"Separate Ways Ch. 2": "|Separate Ways| AND |Chapter 1 Complete|"
+		}
     },
     "Separate Ways Ch. 2": {
-        "requires": "|Separate Ways| AND |Chapter 1 Complete|",
         "connects_to": [
             "Separate Ways Ch. 3"
-        ]
+        ],
+		"exit_requires": {
+			"Separate Ways Ch. 3": "|Separate Ways| AND |Chapter 1 Complete| AND |Chapter 2 Complete|"
+		}
     },
     "Separate Ways Ch. 3": {
-        "requires": "|Separate Ways| AND |Chapter 1 Complete| AND |Chapter 2 Complete|",
         "connects_to": [
             "Separate Ways Ch. 4"
-        ]
+        ],
+		"exit_requires": {
+			"Separate Ways Ch. 4": "|Separate Ways| AND |Chapter 1 Complete| AND |Chapter 2 Complete| AND |Chapter 3 Complete|"
+		}
     },
     "Separate Ways Ch. 4": {
-        "requires": "|Separate Ways| AND |Chapter 1 Complete| AND |Chapter 2 Complete| AND |Chapter 3 Complete|",
         "connects_to": [
             "Separate Ways Ch. 5"
-        ]
+        ],
+		"exit_requires": {
+			"Separate Ways Ch. 5": "|Separate Ways| AND |Chapter 1 Complete| AND |Chapter 2 Complete| AND |Chapter 3 Complete| AND |Chapter 4 Complete|"
+		}
     },
     "Separate Ways Ch. 5": {
-        "requires": "|Separate Ways| AND |Chapter 1 Complete| AND |Chapter 2 Complete| AND |Chapter 3 Complete| AND |Chapter 4 Complete|"
     },
 	"Mercenaries": {
+		"starting": true,
 		"requires": "|Mercenaries Mode|"
 	}
 }
