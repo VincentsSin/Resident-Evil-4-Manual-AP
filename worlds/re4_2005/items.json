@@ -159,7 +159,7 @@
             "Single Use Weapon"
         ],
 		"count": 72,
-        "progression": true
+        "normal": true
     },
     {
         "name": "Flash Grenade",
@@ -167,7 +167,7 @@
             "Single Use Weapon"
         ],
 		"count": 74,
-        "progression": true
+        "normal": true
     },
     {
         "name": "Incendiary Grenade",
@@ -175,7 +175,7 @@
             "Single Use Weapon"
         ],
 		"count": 71,
-        "progression": true
+        "normal": true
     },
     {
         "name": "Matilda",
