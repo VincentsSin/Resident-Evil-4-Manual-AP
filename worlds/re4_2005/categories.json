@@ -1,26 +1,22 @@
 {
     "Herb": {
-		"hidden": true,
-        "yaml_option": [
-            "Herb_Locations"
-        ]
+		"hidden": true
     },
 	"Separate Ways Herb": {
 		"hidden": true,
         "yaml_option": [
-            "Add_SW_Herb_Locations"
+            "Separate_Ways"
         ]
     },
     "Treasure": {
-        "yaml_option": [
-            "Treasure_Locations"
-        ]
     },
+	"Treasure Location": {
+		"hidden": true
 	},
     "Separate Ways Treasure": {
 		"hidden": true,
         "yaml_option": [
-            "Add_SW_Treasure_Locations"
+            "Separate_Ways"
         ]
     },
 	"Crate": {
@@ -44,7 +40,7 @@
 	"Separate Ways Animal": {
 		"hidden": true,
         "yaml_option": [
-            "Animalsanity"
+            "Add_SW_Animalsanity"
         ]
     },
 	"Memo": {
