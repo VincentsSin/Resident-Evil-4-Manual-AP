@@ -5414,7 +5414,7 @@
             "Merchant Upgrade"
         ],
         "region": "Chapter 3-1 Merchant A",
-        "requires": "({YamlDisabled(New_Game_Plus)} AND |Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Blacktail| AND |Progressive Reload Speed (Blacktail):1|) OR ({YamlEnabled(New_Game_Plus)} AND |Blacktail| AND |Progressive Firing Speed (Blacktail):2|)"
+        "requires": "({YamlDisabled(New_Game_Plus)} AND |Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Blacktail| AND |Progressive Reload Speed (Blacktail):1|) OR ({YamlEnabled(New_Game_Plus)} AND |Blacktail| AND |Progressive Firing Speed (Blacktail):1|)"
     },
     {
         "name": "Reload Speed Upgrade 2 (Blacktail)",
@@ -13329,7 +13329,7 @@
     {
         "name": "Insignia Key (Dropped From Chicken)",
         "category": [
-            "Separate Ways, Key Item",
+            "Separate Ways Key Item",
             "Separate Ways"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13410,7 +13410,7 @@
     {
         "name": "Green Catseye (End Of Bridge)",
         "category": [
-            "Separate Ways, Key Item",
+            "Separate Ways Key Item",
             "Separate Ways"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13419,7 +13419,7 @@
     {
         "name": "Round Insignia (Puzzle Behind Church)",
         "category": [
-            "Separate Ways, Key Item",
+            "Separate Ways Key Item",
             "Separate Ways"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13873,7 +13873,7 @@
         "name": "(S.W.) Chicken (Insignia House)",
         "category": [
 			"Separate Ways Animal",
-			"S. W. Animal, Ch. 2"
+			"S. W. Animal"
         ],
         "region": "Separate Ways Ch. 2",
 		"requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia|"
@@ -13882,7 +13882,7 @@
         "name": "(S.W.) Chicken (Village (2nd Visit))",
         "category": [
 			"Separate Ways Animal",
-			"S. W. Animal, Ch. 2"
+			"S. W. Animal"
         ],
         "region": "Separate Ways Ch. 2",
 		"requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia|"
@@ -13891,7 +13891,7 @@
         "name": "(S.W.) Cow (Village (2nd Visit))",
         "category": [
 			"Separate Ways Animal",
-			"S. W. Animal, Ch. 2"
+			"S. W. Animal"
         ],
         "region": "Separate Ways Ch. 2",
 		"requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia|"
@@ -14556,7 +14556,7 @@
     {
         "name": "Iron Key",
         "category": [
-            "Separate Ways, Key Item",
+            "Separate Ways Key Item",
             "Separate Ways"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14592,7 +14592,7 @@
     {
         "name": "Lift Activation Key",
         "category": [
-            "Separate Ways, Key Item",
+            "Separate Ways Key Item",
             "Separate Ways"
         ],
         "region": "Separate Ways Ch. 2",
@@ -15180,7 +15180,7 @@
     {
         "name": "Hourglass W/ Gold Decor (Locked Room)",
         "category": [
-            "Separate Ways, Key Item",
+            "Separate Ways Key Item",
             "Separate Ways"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15813,7 +15813,7 @@
     {
         "name": "Activation Key (Blue)",
         "category": [
-            "Separate Ways, Key Item",
+            "Separate Ways Key Item",
             "Separate Ways"
         ],
         "region": "Separate Ways Ch. 4",
@@ -15876,7 +15876,7 @@
     {
         "name": "Activation Key (Red)",
         "category": [
-            "Separate Ways, Key Item",
+            "Separate Ways Key Item",
             "Separate Ways"
         ],
         "region": "Separate Ways Ch. 4",
@@ -16655,7 +16655,7 @@
     {
         "name": "Special Rocket Launcher (Ada)",
         "category": [
-            "Separate Ways, Key Item",
+            "Separate Ways Key Item",
             "Separate Ways"
         ],
         "region": "Separate Ways Ch. 5",
@@ -17501,7 +17501,7 @@
             "Goal"
         ],
 		"region": "Final Chapter",
-        "requires": "({YamlDisabled(SeparateWays)} AND {YamlDisabled(MercenariesMode)} AND |Jet-ski Key|) OR ({YamlEnabled(SeparateWays)} AND {YamlDisabled(MercenariesMode)} AND |Jet-ski Key| AND |Separate Ways Complete|) OR ({YamlEnabled(MercenariesMode)} AND {YamlDisabled(SeparateWays)} AND |Jet-ski Key| AND |Mercenaries Complete|) OR ({YamlEnabled(MercenariesMode)} AND {YamlEnabled(SeparateWays)} AND |Jet-ski Key| AND |Mercenaries Complete| AND |Separate Ways Complete|)",
+        "requires": "({YamlDisabled(Separate_Ways)} AND {YamlDisabled(Mercenaries_Mode)} AND |Jet-ski Key|) OR ({YamlEnabled(Separate_Ways)} AND {YamlDisabled(Mercenaries_Mode)} AND |Jet-ski Key| AND |Separate Ways Complete|) OR ({YamlEnabled(Mercenaries_Mode)} AND {YamlDisabled(Separate_Ways)} AND |Jet-ski Key| AND |Mercenaries Complete|) OR ({YamlEnabled(Mercenaries_Mode)} AND {YamlEnabled(Separate_Ways)} AND |Jet-ski Key| AND |Mercenaries Complete| AND |Separate Ways Complete|)",
         "victory": true
     }
 ]
