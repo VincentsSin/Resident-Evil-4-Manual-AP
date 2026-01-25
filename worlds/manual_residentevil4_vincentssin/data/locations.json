@@ -2088,7 +2088,7 @@
             "Chapter Complete"
         ],
         "region": "Chapter 1-2",
-		"requires": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key|"
+		"requires": "|Emblem (Left Half)| AND |Emblem (Right Half)|"
     },
 	{
         "name": "Incendiary Grenade (Insignia House 1F Glass Cabinet)",
@@ -2120,7 +2120,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "TMP Ammo (Village Insignia House Backroom Barrel)",
@@ -2128,7 +2129,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "Hand Grenade (Graveyard Entrance First Bird Nest)",
@@ -2136,7 +2138,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "Rifle Ammo (Graveyard Entrance Second Bird Nest)",
@@ -2144,7 +2147,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "Handgun Ammo (Graveyard Front Shack Table)",
@@ -2152,7 +2156,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "Incendiary Grenade (Graveyard Church Bird Nest)",
@@ -2160,7 +2165,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "Flash Grenade (Arena Crow Group)",
@@ -2168,7 +2174,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "Handgun Ammo (Arena First Shack)",
@@ -2176,7 +2183,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "Handgun Ammo (Arena Third Shack)",
@@ -2184,7 +2192,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "Handgun Ammo (Arena Underground Merchant Crates)",
@@ -2192,7 +2201,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "Handgun Ammo (Path To Swamp Shack)",
@@ -2200,7 +2210,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "Shotgun Shells (Swamp Walkway Shack Small Crate)",
@@ -2208,7 +2219,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "TMP Ammo (Swamp Walkway Shack Barrel)",
@@ -2216,7 +2228,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "Incendiary Grenade (Swamp Walkway Bench)",
@@ -2224,7 +2237,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "Handgun Ammo (Swamp End Shack)",
@@ -2232,7 +2246,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "Handgun Ammo (Path To Lake First Shack)",
@@ -2240,7 +2255,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Large Crate (Shack After Insignia House)",
@@ -2264,7 +2280,8 @@
             "Crate",
 			"Crate, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Small Crate (Village Locked Insignia House Tunnels)",
@@ -2272,7 +2289,8 @@
             "Crate",
 			"Crate, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Barrel (Village Locked Insignia House)",
@@ -2280,7 +2298,8 @@
             "Crate",
 			"Crate, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Small Crate (Graveyard Front Shack) - 1",
@@ -2288,7 +2307,8 @@
             "Crate",
 			"Crate, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Small Crate (Graveyard Front Shack) - 2",
@@ -2296,7 +2316,8 @@
             "Crate",
 			"Crate, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Small Crate (Graveyard Rear Shack) - 1",
@@ -2304,7 +2325,8 @@
             "Crate",
 			"Crate, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Small Crate (Graveyard Rear Shack) - 2",
@@ -2312,7 +2334,8 @@
             "Crate",
 			"Crate, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Barrel (Arena Daytime) - 1",
@@ -2320,7 +2343,8 @@
             "Crate",
 			"Crate, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Barrel (Arena Daytime) - 2",
@@ -2328,7 +2352,8 @@
             "Crate",
 			"Crate, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Barrel (Arena Daytime) - 3",
@@ -2336,7 +2361,8 @@
             "Crate",
 			"Crate, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Barrel (Arena Merchant Daytime) - 1",
@@ -2344,7 +2370,8 @@
             "Crate",
 			"Crate, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Barrel (Arena Merchant Daytime) - 2",
@@ -2352,7 +2379,8 @@
             "Crate",
 			"Crate, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Barrel (Shack After Arena)",
@@ -2360,7 +2388,8 @@
             "Crate",
 			"Crate, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Barrel (Swamp Walkway Shack)",
@@ -2368,7 +2397,8 @@
             "Crate",
 			"Crate, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Small Crate (Swamp Walkway Shack) - 1",
@@ -2376,7 +2406,8 @@
             "Crate",
 			"Crate, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Small Crate (Swamp Walkway Shack) - 2",
@@ -2384,7 +2415,8 @@
             "Crate",
 			"Crate, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Small Crate (Shack At End Of Swamp)",
@@ -2392,7 +2424,8 @@
             "Crate",
 			"Crate, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Small Crate (First Lakeside Shack)",
@@ -2400,7 +2433,8 @@
             "Crate",
 			"Crate, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Barrel (Lakeside Save Point Shack)",
@@ -2408,7 +2442,8 @@
             "Crate",
 			"Crate, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Snake (Shack Behind Graveyard)",
@@ -2416,7 +2451,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "Egg (Shack Snake Behind Graveyard)",
@@ -2424,7 +2460,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Snake (Swamp Walkway Shack Crate)",
@@ -2432,7 +2469,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "Egg (Swamp Walkway Shack Crate Snake)",
@@ -2440,7 +2478,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Snake (End Of Swamp Shack Crate)",
@@ -2448,7 +2487,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "Egg (End Of Swamp Shack Crate Snake)",
@@ -2456,7 +2496,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Snake (Swamp Water) - 1",
@@ -2464,7 +2505,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "Egg (Swamp Water Snake) - 1",
@@ -2472,7 +2514,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Snake (Swamp Water) - 2",
@@ -2480,7 +2523,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "Egg (Swamp Water Snake) - 2",
@@ -2488,7 +2532,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Snake (Swamp Water) - 3",
@@ -2496,7 +2541,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "Egg (Swamp Water Snake) - 3",
@@ -2504,7 +2550,8 @@
             "Ammo",
 			"Ammo, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Black Bass (Arena Merchant Daytime) - 1",
@@ -2512,7 +2559,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Black Bass (Arena Merchant Daytime) - 2",
@@ -2520,7 +2568,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Black Bass (Arena Merchant Daytime) - 3",
@@ -2528,7 +2577,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Black Bass (Arena Merchant Daytime) - 4",
@@ -2536,7 +2586,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Black Bass (Arena Merchant Daytime) - 5",
@@ -2544,7 +2595,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Closure Of The Church",
@@ -2615,7 +2667,8 @@
             "Treasure, Ch. 1",
             "Treasure Location"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Spinel (Underground Cavern) - 1",
@@ -2623,7 +2676,8 @@
             "Treasure, Ch. 1",
             "Treasure Location"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Spinel (Underground Cavern) - 2",
@@ -2631,7 +2685,8 @@
             "Treasure, Ch. 1",
             "Treasure Location"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Elegant Headdress (Underground Cavern)",
@@ -2639,7 +2694,8 @@
             "Treasure, Ch. 1",
             "Treasure Location"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Graveyard Crow - 1",
@@ -2647,7 +2703,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Graveyard Crow - 2",
@@ -2655,7 +2712,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Graveyard Crow - 3",
@@ -2663,63 +2721,72 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Blue Medallion (Tree Among North Gravestones)",
         "category": [
             "Merchant Sidequest"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Blue Medallion (Tree Among Gravestones Next To Path)",
         "category": [
             "Merchant Sidequest"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Blue Medallion (Tree Next To Small Hut)",
         "category": [
             "Merchant Sidequest"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Blue Medallion (Behind Church Left Of Entrance)",
         "category": [
             "Merchant Sidequest"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Blue Medallion (Hanging From Roof Above Pedestal Puzzle)",
         "category": [
             "Merchant Sidequest"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Blue Medallion (Under Bridge First Gap)",
         "category": [
             "Merchant Sidequest"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Blue Medallion (Bridge Suspension Post)",
         "category": [
             "Merchant Sidequest"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Blue Medallion (Under Bridge Second Gap)",
         "category": [
             "Merchant Sidequest"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Green Catseye",
@@ -2727,7 +2794,8 @@
             "Treasure, Ch. 1",
             "Treasure Location"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Crow (El Gigante Arena) - 1",
@@ -2735,7 +2803,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Crow (El Gigante Arena) - 2",
@@ -2743,7 +2812,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Crow (El Gigante Arena) - 3",
@@ -2751,7 +2821,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Crow (El Gigante Arena) - 4",
@@ -2759,7 +2830,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Crow (El Gigante Arena) - 5",
@@ -2767,7 +2839,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Crow (El Gigante Arena) - 6",
@@ -2775,7 +2848,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Crow (El Gigante Arena) - 7",
@@ -2783,7 +2857,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Crow (El Gigante Arena) - 8",
@@ -2791,7 +2866,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Crow (El Gigante Arena) - 9",
@@ -2799,7 +2875,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Crow (El Gigante Arena) - 10",
@@ -2807,7 +2884,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Crow (El Gigante Arena) - 11",
@@ -2815,7 +2893,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Crow (El Gigante Arena) - 12",
@@ -2823,7 +2902,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Crow (El Gigante Arena) - 13",
@@ -2831,7 +2911,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Crow (El Gigante Arena) - 14",
@@ -2839,7 +2920,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Crow (El Gigante Arena) - 15",
@@ -2847,7 +2929,8 @@
             "Animal",
 			"Animal, Ch. 1"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Spinel (Arena Abandoned Cart)",
@@ -2855,7 +2938,8 @@
             "Treasure, Ch. 1",
             "Treasure Location"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Spinel (Arena First Hut)",
@@ -2863,7 +2947,8 @@
             "Treasure, Ch. 1",
             "Treasure Location"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Spinel (End Of Second Boulder Chase)",
@@ -2871,7 +2956,8 @@
             "Treasure, Ch. 1",
             "Treasure Location"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Antique Pipe",
@@ -2879,7 +2965,8 @@
             "Treasure, Ch. 1",
             "Treasure Location"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Gold Bangle w/ Pearls",
@@ -2887,7 +2974,8 @@
             "Treasure, Ch. 1",
             "Treasure Location"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Green Herb (Lakeside Hut)",
@@ -2895,7 +2983,8 @@
             "Herb, Ch. 1",
             "Herb"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Red Herb (Lake Lookout Point)",
@@ -2903,7 +2992,8 @@
             "Herb, Ch. 1",
             "Herb"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Yellow Herb (Lakeside Hut)",
@@ -2911,7 +3001,8 @@
             "Herb, Ch. 1",
             "Herb"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Firepower Upgrade 1 (Punisher)",
@@ -3038,14 +3129,16 @@
         "category": [
             "Boss"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
     {
         "name": "Chapter 1-3 Complete",
         "category": [
             "Chapter Complete"
         ],
-        "region": "Chapter 1-3"
+        "region": "Chapter 1-3",
+        "requires": "|Insignia Key|"
     },
 	{
         "name": "Handgun Ammo (On Table With Typewriter)",
