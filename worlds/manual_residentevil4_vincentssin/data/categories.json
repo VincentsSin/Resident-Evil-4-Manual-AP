@@ -1,4 +1,14 @@
 {
+    "Separate Ways Key Item": {
+        "yaml_option": [
+            "Separate_Ways"
+        ]
+    },
+    "Separate Ways Chapter Complete": {
+		"yaml_option": [
+			"Separate_Ways"
+		]
+	},
     "Herb": {
 		"hidden": true
     },
@@ -111,11 +121,6 @@
         "hidden": true,
         "yaml_option": [
             "PRL_412"
-        ]
-    },
-    "Separate Ways": {
-        "yaml_option": [
-            "Separate_Ways"
         ]
     },
 	"Mercenaries": {

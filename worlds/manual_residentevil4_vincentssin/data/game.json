@@ -1,6 +1,6 @@
 {
     "game": "ResidentEvil4",
-    "player": "VincentsSin",
+    "creator": "VincentsSin",
     "filler_item_name": "Plaga Virus",
 	"death_link": true,
     "starting_items": [

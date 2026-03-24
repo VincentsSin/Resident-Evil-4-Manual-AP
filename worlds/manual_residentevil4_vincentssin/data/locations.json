@@ -942,12 +942,12 @@
         "requires": "|Stock (TMP)|"
     },
     {
-        "name": "Attache Case (M)",
+        "name": "Attaché Case (M)",
         "category": [
             "Merchant Upgrade"
         ],
         "region": "Chapter 1-2 Merchant",
-        "requires": "|Progressive Attache Case:1|"
+        "requires": "|Progressive Attaché Case:1|"
     },
     {
         "name": "Treasure Map (Village)",
@@ -1707,7 +1707,7 @@
 		"requires": "|Emblem (Left Half)| AND |Emblem (Right Half)|"
     },
 	{
-        "name": "Rifle Ammo (Shack Behind Insignia House Large Crate)",
+        "name": "Rifle Ammo (Shack Behind Chief's House Large Crate)",
         "category": [
             "Ammo",
 			"Ammo, Ch. 1"
@@ -1716,7 +1716,7 @@
 		"requires": "|Emblem (Left Half)| AND |Emblem (Right Half)|"
     },
 	{
-        "name": "Handgun Ammo (Insignia House Bedroom Desk Drawer)",
+        "name": "Handgun Ammo (Chief's House Bedroom Desk Drawer)",
         "category": [
             "Ammo",
 			"Ammo, Ch. 1"
@@ -1886,7 +1886,7 @@
 		"requires": "|Emblem (Left Half)| AND |Emblem (Right Half)|"
     },
     {
-        "name": "Barrel (Shack Before Insignia House)",
+        "name": "Barrel (Shack Before Chief's House)",
         "category": [
             "Crate",
 			"Crate, Ch. 1"
@@ -1895,7 +1895,7 @@
 		"requires": "|Emblem (Left Half)| AND |Emblem (Right Half)|"
     },
     {
-        "name": "Large Crate (Shack Before Insignia House)",
+        "name": "Large Crate (Shack Before Chief's House)",
         "category": [
             "Crate",
 			"Crate, Ch. 1"
@@ -1904,7 +1904,7 @@
 		"requires": "|Emblem (Left Half)| AND |Emblem (Right Half)|"
     },
     {
-        "name": "Black Bass (Warehouse Rersevoir) - 1",
+        "name": "Black Bass (Warehouse Reservoir) - 1",
         "category": [
             "Animal",
 			"Animal, Ch. 1"
@@ -1913,7 +1913,7 @@
 		"requires": "|Emblem (Left Half)| AND |Emblem (Right Half)|"
     },
     {
-        "name": "Black Bass (Warehouse Rersevoir) - 2",
+        "name": "Black Bass (Warehouse Reservoir) - 2",
         "category": [
             "Animal",
 			"Animal, Ch. 1"
@@ -1922,7 +1922,7 @@
 		"requires": "|Emblem (Left Half)| AND |Emblem (Right Half)|"
     },
     {
-        "name": "Black Bass (Warehouse Rersevoir) - 3",
+        "name": "Black Bass (Warehouse Reservoir) - 3",
         "category": [
             "Animal",
 			"Animal, Ch. 1"
@@ -1931,7 +1931,7 @@
 		"requires": "|Emblem (Left Half)| AND |Emblem (Right Half)|"
     },
     {
-        "name": "Black Bass (Warehouse Rersevoir) - 4",
+        "name": "Black Bass (Warehouse Reservoir) - 4",
         "category": [
             "Animal",
 			"Animal, Ch. 1"
@@ -1940,7 +1940,7 @@
 		"requires": "|Emblem (Left Half)| AND |Emblem (Right Half)|"
     },
     {
-        "name": "Black Bass (Warehouse Rersevoir) - 5",
+        "name": "Black Bass (Warehouse Reservoir) - 5",
         "category": [
             "Animal",
 			"Animal, Ch. 1"
@@ -1949,7 +1949,7 @@
 		"requires": "|Emblem (Left Half)| AND |Emblem (Right Half)|"
     },
     {
-        "name": "Black Bass (L) (Warehouse Rersevoir)",
+        "name": "Black Bass (L) (Warehouse Reservoir)",
         "category": [
             "Animal",
 			"Animal, Ch. 1"
@@ -2091,7 +2091,7 @@
 		"requires": "|Emblem (Left Half)| AND |Emblem (Right Half)|"
     },
 	{
-        "name": "Incendiary Grenade (Insignia House 1F Glass Cabinet)",
+        "name": "Incendiary Grenade (Chief's House 1F Glass Cabinet)",
         "category": [
             "Ammo",
 			"Ammo, Ch. 1"
@@ -2099,7 +2099,7 @@
         "region": "Chapter 1-3"
     },
 	{
-        "name": "Egg (Insignia House 1F Oven)",
+        "name": "Egg (Chief's House Oven)",
         "category": [
             "Ammo",
 			"Ammo, Ch. 1"
@@ -2259,7 +2259,7 @@
         "requires": "|Insignia Key|"
     },
     {
-        "name": "Large Crate (Shack After Insignia House)",
+        "name": "Large Crate (Shack After Chief's House)",
         "category": [
             "Crate",
 			"Crate, Ch. 1"
@@ -2267,7 +2267,7 @@
         "region": "Chapter 1-3"
     },
     {
-        "name": "Barrel (Shack After Insignia House)",
+        "name": "Barrel (Shack After Chief's House)",
         "category": [
             "Crate",
 			"Crate, Ch. 1"
@@ -2275,7 +2275,7 @@
         "region": "Chapter 1-3"
     },
     {
-        "name": "Small Crate (Village Locked Insignia House)",
+        "name": "Small Crate (Insignia House)",
         "category": [
             "Crate",
 			"Crate, Ch. 1"
@@ -2284,7 +2284,7 @@
         "requires": "|Insignia Key|"
     },
     {
-        "name": "Small Crate (Village Locked Insignia House Tunnels)",
+        "name": "Small Crate (Insignia House Tunnels)",
         "category": [
             "Crate",
 			"Crate, Ch. 1"
@@ -2293,7 +2293,7 @@
         "requires": "|Insignia Key|"
     },
     {
-        "name": "Barrel (Village Locked Insignia House)",
+        "name": "Barrel (Insignia House)",
         "category": [
             "Crate",
 			"Crate, Ch. 1"
@@ -2634,14 +2634,6 @@
         "category": [
             "Treasure, Ch. 1",
             "Treasure Location"
-        ],
-        "region": "Chapter 1-3"
-    },
-	{
-        "name": "Egg (Insignia House Oven)",
-        "category": [
-            "Ammo",
-			"Ammo, Ch. 1"
         ],
         "region": "Chapter 1-3"
     },
@@ -3213,7 +3205,7 @@
         "region": "Chapter 2-1"
     },
 	{
-        "name": "Handgun Ammo (Arena Barrel Outside Undergroud Merchant (Nighttime))",
+        "name": "Handgun Ammo (Arena Barrel Outside Underground Merchant (Nighttime))",
         "category": [
             "Ammo",
 			"Ammo, Ch. 2"
@@ -3258,7 +3250,7 @@
 		"requires": "|Round Insignia|"
     },
 	{
-        "name": "Rifle Ammo (Graveyard Church Birdnest (Nighttime))",
+        "name": "Rifle Ammo (Graveyard Church Bird Nest (Nighttime))",
         "category": [
             "Ammo",
 			"Ammo, Ch. 2"
@@ -4248,7 +4240,7 @@
         "region": "Chapter 2-2"
     },
     {
-        "name": "Spinel (Bird Nest In Cemetary Near Underground Tunnel)",
+        "name": "Spinel (Bird Nest In Cemetery Near Underground Tunnel)",
         "category": [
             "Treasure, Ch. 2",
             "Treasure Location"
@@ -4256,7 +4248,7 @@
         "region": "Chapter 2-2"
     },
     {
-        "name": "Gold (Bird Nest In Cemetary Near Underground Tunnel)",
+        "name": "Gold (Bird Nest In Cemetery Near Underground Tunnel)",
         "category": [
             "Treasure, Ch. 2",
             "Treasure Location"
@@ -5046,12 +5038,12 @@
         "requires": "({YamlDisabled(New_Game_Plus)} AND |Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Scope (Mine Thrower)|) OR ({YamlEnabled(New_Game_Plus)} AND |Scope (Mine Thrower)|)"
     },
     {
-        "name": "Attache Case (L)",
+        "name": "Attaché Case (L)",
         "category": [
             "Merchant Upgrade"
         ],
         "region": "Chapter 3-1 Merchant A",
-        "requires": "({YamlDisabled(New_Game_Plus)} AND |Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Progressive Attache Case:2|) OR ({YamlEnabled(New_Game_Plus)} AND |Progressive Attache Case:2|)"
+        "requires": "({YamlDisabled(New_Game_Plus)} AND |Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Progressive Attaché Case:2|) OR ({YamlEnabled(New_Game_Plus)} AND |Progressive Attaché Case:2|)"
     },
     {
         "name": "Treasure Map (Castle)",
@@ -6093,7 +6085,7 @@
         "region": "Chapter 3-1"
     },
 	{
-        "name": "Egg (Small Crate Sanke Behind Barrels)",
+        "name": "Egg (Small Crate Snake Behind Barrels)",
         "category": [
             "Ammo",
 			"Ammo, Ch. 3"
@@ -6130,8 +6122,7 @@
             "Herb, Ch. 3",
             "Herb"
         ],
-        "region": "Chapter 3-1",
-		"requires": "|Gold Sword| AND |Platinum Sword|"
+        "region": "Chapter 3-1"
     },
     {
         "name": "Spinel (Castle Courtyard Destroyed Well)",
@@ -7738,12 +7729,12 @@
         "region": "Chapter 3-3"
     },
     {
-        "name": "Attache Case XL",
+        "name": "Attaché Case XL",
         "category": [
             "Merchant Upgrade"
         ],
         "region": "Chapter 3-3 Merchant B",
-        "requires": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Progressive Attache Case:3|"
+        "requires": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Progressive Attaché Case:3|"
     },
     {
         "name": "Chapter 3-3 Complete",
@@ -8035,7 +8026,7 @@
         "region": "Chapter 4-1"
     },
 	{
-        "name": "Hand Grenade (Upstairs Behind OrnamentWall Small Vase)",
+        "name": "Hand Grenade (Upstairs Behind Ornament Wall Small Vase)",
         "category": [
             "Ammo",
 			"Ammo, Ch. 4"
@@ -11264,7 +11255,7 @@
         "region": "Chapter 5-1"
     },
     {
-        "name": "Green Herb (Near Reasearch Building Save Point)",
+        "name": "Green Herb (Near Research Building Save Point)",
         "category": [
             "Herb, Ch. 5",
             "Herb"
@@ -13323,7 +13314,7 @@
     {
         "name": "Gold (Shack Behind Shotgun House)",
         "category": [
-            "Separate Ways, Treasure, Ch. 1",
+            "Separate Ways Tresure, Ch. 1",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13332,7 +13323,7 @@
     {
         "name": "Gold (Shotgun House 2F Table)",
         "category": [
-            "Separate Ways, Treasure, Ch. 1",
+            "Separate Ways Tresure, Ch. 1",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13341,7 +13332,7 @@
     {
         "name": "Gold (North Middle House)",
         "category": [
-            "Separate Ways, Treasure, Ch. 1",
+            "Separate Ways Tresure, Ch. 1",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13350,7 +13341,7 @@
     {
         "name": "Spinel (Shotgun House Roof)",
         "category": [
-            "Separate Ways, Treasure, Ch. 1",
+            "Separate Ways Tresure, Ch. 1",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13359,7 +13350,7 @@
     {
         "name": "Spinel (West Of Village (Leon's Entrance))",
         "category": [
-            "Separate Ways, Treasure, Ch. 1",
+            "Separate Ways Tresure, Ch. 1",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13368,7 +13359,7 @@
     {
         "name": "Spinel (Shack On Path To Farm)",
         "category": [
-            "Separate Ways, Treasure, Ch. 1",
+            "Separate Ways Tresure, Ch. 1",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13377,7 +13368,7 @@
     {
         "name": "Elegant Mask (Small House w/ Bed)",
         "category": [
-            "Separate Ways, Treasure, Ch. 1",
+            "Separate Ways Tresure, Ch. 1",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13386,7 +13377,7 @@
     {
         "name": "Green Herb (Outside Small House w/ Bed)",
         "category": [
-            "Separate Ways, Herb, Ch. 1",
+            "Separate Ways Herb, Ch. 1",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13395,7 +13386,7 @@
     {
         "name": "Red Herb (Behind Shotgun House)",
         "category": [
-            "Separate Ways, Herb, Ch. 1",
+            "Separate Ways Herb, Ch. 1",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13404,7 +13395,7 @@
     {
         "name": "Red Herb (South Village Wagon)",
         "category": [
-            "Separate Ways, Herb, Ch. 1",
+            "Separate Ways Herb, Ch. 1",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13413,7 +13404,7 @@
     {
         "name": "Yellow Herb (Behind Cow Barn)",
         "category": [
-            "Separate Ways, Herb, Ch. 1",
+            "Separate Ways Herb, Ch. 1",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13422,8 +13413,7 @@
     {
         "name": "Insignia Key (Dropped From Chicken)",
         "category": [
-            "Separate Ways Key Item",
-            "Separate Ways"
+            "Separate Ways Key Item"
         ],
         "region": "Separate Ways Ch. 1",
         "requires": "|Separate Ways|"
@@ -13431,7 +13421,7 @@
     {
         "name": "Green Herb (Barrel Behind Merchant)",
         "category": [
-            "Separate Ways, Herb, Ch. 1",
+            "Separate Ways Herb, Ch. 1",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13440,7 +13430,7 @@
     {
         "name": "Gold (Crate In Underground Tunnel)",
         "category": [
-            "Separate Ways, Treasure, Ch. 1",
+            "Separate Ways Tresure, Ch. 1",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13449,7 +13439,7 @@
     {
         "name": "Green Gem (Underground Tunnel)",
         "category": [
-            "Separate Ways, Treasure, Ch. 1",
+            "Separate Ways Tresure, Ch. 1",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13458,7 +13448,7 @@
     {
         "name": "Gold (West Shack Outside Graveyard)",
         "category": [
-            "Separate Ways, Treasure, Ch. 1",
+            "Separate Ways Tresure, Ch. 1",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13467,7 +13457,7 @@
     {
         "name": "Red Gem (Middle Of Graveyard)",
         "category": [
-            "Separate Ways, Treasure, Ch. 1",
+            "Separate Ways Tresure, Ch. 1",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13476,7 +13466,7 @@
     {
         "name": "Gold (Bird Nest In Front Of Church)",
         "category": [
-            "Separate Ways, Treasure, Ch. 1",
+            "Separate Ways Tresure, Ch. 1",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13485,7 +13475,7 @@
     {
         "name": "Gold (Crate In Shack Along Bridge)",
         "category": [
-            "Separate Ways, Treasure, Ch. 1",
+            "Separate Ways Tresure, Ch. 1",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13494,7 +13484,7 @@
     {
         "name": "Gold (Chainsaw Lady Drop)",
         "category": [
-            "Separate Ways, Treasure, Ch. 1",
+            "Separate Ways Tresure, Ch. 1",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13503,8 +13493,7 @@
     {
         "name": "Green Catseye (End Of Bridge)",
         "category": [
-            "Separate Ways Key Item",
-            "Separate Ways"
+            "Separate Ways Key Item"
         ],
         "region": "Separate Ways Ch. 1",
         "requires": "|Separate Ways| AND |Insignia Key|"
@@ -13512,8 +13501,7 @@
     {
         "name": "Round Insignia (Puzzle Behind Church)",
         "category": [
-            "Separate Ways Key Item",
-            "Separate Ways"
+            "Separate Ways Key Item"
         ],
         "region": "Separate Ways Ch. 1",
         "requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye|"
@@ -13521,7 +13509,7 @@
     {
         "name": "Purple Gem (Church 1F Southeast Corner)",
         "category": [
-            "Separate Ways, Treasure, Ch. 1",
+            "Separate Ways Tresure, Ch. 1",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13530,7 +13518,7 @@
     {
         "name": "Gold (Barrel In Church 2F)",
         "category": [
-            "Separate Ways, Treasure, Ch. 1",
+            "Separate Ways Tresure, Ch. 1",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 1",
@@ -13539,8 +13527,7 @@
     {
         "name": "Chapter 1 Complete",
         "category": [
-            "Separate Ways, Chapter Complete",
-            "Separate Ways"
+            "Separate Ways Chapter Complete"
         ],
         "region": "Separate Ways Ch. 1",
         "place_item": [
@@ -13549,7 +13536,7 @@
         "requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia|"
     },
 	{
-        "name": "(S.W.) Barrel (Shack Behind Insignia House)",
+        "name": "(S.W.) Barrel (Shack Behind Chief's House)",
         "category": [
 			"Separate Ways Crate",
 			"S. W. Crate, Ch. 2"
@@ -13558,7 +13545,7 @@
 		"requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia|"
     },
 	{
-        "name": "(S.W.) Large Crate (Shack Behind Insignia House)",
+        "name": "(S.W.) Large Crate (Shack Behind Chief's House)",
         "category": [
 			"Separate Ways Crate",
 			"S. W. Crate, Ch. 2"
@@ -13567,7 +13554,7 @@
 		"requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia|"
     },
 	{
-        "name": "(S.W.) Bird Nest (Path Leaving Insignia House) - 1",
+        "name": "(S.W.) Bird Nest (Path Leaving Chief's House) - 1",
         "category": [
 			"Separate Ways Crate",
 			"S. W. Crate, Ch. 2"
@@ -13576,7 +13563,7 @@
 		"requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia|"
     },
 	{
-        "name": "(S.W.) Bird Nest (Path Leaving Insignia House) - 2",
+        "name": "(S.W.) Bird Nest (Path Leaving Chief's House) - 2",
         "category": [
 			"Separate Ways Crate",
 			"S. W. Crate, Ch. 2"
@@ -13936,7 +13923,7 @@
 		"requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia| AND |Iron Key| AND |Lift Activation Key|"
     },
 	{
-        "name": "(S.W.) Crow (Behind Insignia House) - 1",
+        "name": "(S.W.) Crow (Behind Chief's House) - 1",
         "category": [
 			"Separate Ways Animal",
 			"S. W. Animal"
@@ -13945,7 +13932,7 @@
 		"requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia|"
     },
 	{
-        "name": "(S.W.) Crow (Behind Insignia House) - 2",
+        "name": "(S.W.) Crow (Behind Chief's House) - 2",
         "category": [
 			"Separate Ways Animal",
 			"S. W. Animal"
@@ -13954,7 +13941,7 @@
 		"requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia|"
     },
 	{
-        "name": "(S.W.) Crow (Behind Insignia House) - 3",
+        "name": "(S.W.) Crow (Behind Chief's House) - 3",
         "category": [
 			"Separate Ways Animal",
 			"S. W. Animal"
@@ -13963,7 +13950,7 @@
 		"requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia|"
     },
 	{
-        "name": "(S.W.) Chicken (Insignia House)",
+        "name": "(S.W.) Chicken (Chief's House)",
         "category": [
 			"Separate Ways Animal",
 			"S. W. Animal"
@@ -13990,7 +13977,7 @@
 		"requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia|"
     },
 	{
-        "name": "(S.W.) TMP Ammo (Barrel Behind Insignia House)",
+        "name": "(S.W.) TMP Ammo (Barrel Behind Chief's House)",
         "category": [
 			"Separate Ways Ammo",
 			"S. W. Ammo, Ch. 2"
@@ -14017,7 +14004,7 @@
 		"requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia|"
     },
 	{
-        "name": "(S.W.) Egg (Insignia House Oven)",
+        "name": "(S.W.) Egg (Chief's House Oven)",
         "category": [
 			"Separate Ways Ammo",
 			"S. W. Ammo, Ch. 2"
@@ -14026,7 +14013,7 @@
 		"requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia|"
     },
 	{
-        "name": "(S.W.) Hand Grenade (Insignia House Glass Case)",
+        "name": "(S.W.) Hand Grenade (Chief's House Glass Case)",
         "category": [
 			"Separate Ways Ammo",
 			"S. W. Ammo, Ch. 2"
@@ -14035,7 +14022,7 @@
 		"requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia|"
     },
 	{
-        "name": "(S.W.) Handgun Ammo (Log Pile Outside Insignia House)",
+        "name": "(S.W.) Handgun Ammo (Log Pile Outside Chief's House)",
         "category": [
 			"Separate Ways Ammo",
 			"S. W. Ammo, Ch. 2"
@@ -14044,7 +14031,7 @@
 		"requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia|"
     },
 	{
-        "name": "(S.W.) Handgun Ammo (First Bird Nest Leaving Insignia House)",
+        "name": "(S.W.) Handgun Ammo (First Bird Nest Leaving Chief's House)",
         "category": [
 			"Separate Ways Ammo",
 			"S. W. Ammo, Ch. 2"
@@ -14053,7 +14040,7 @@
 		"requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia|"
     },
 	{
-        "name": "(S.W.) TMP Ammo (Second Bird Nest Leaving Insignia House)",
+        "name": "(S.W.) TMP Ammo (Second Bird Nest Leaving Chief's House)",
         "category": [
 			"Separate Ways Ammo",
 			"S. W. Ammo, Ch. 2"
@@ -14397,7 +14384,7 @@
     {
         "name": "Gold (Bedroom Cabinet)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14406,7 +14393,7 @@
     {
         "name": "Spinel (Crate In Shack By Well)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14415,25 +14402,25 @@
     {
         "name": "Brass Pocket Watch (Well Behind House)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
         "requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia|"
     },
     {
-        "name": "Gold (Insignia House 1F Cabinet)",
+        "name": "Gold (Chief's House 1F Cabinet)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
         "requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia|"
     },
     {
-        "name": "Ruby (Dr. Salvador Outside Insignia House)",
+        "name": "Ruby (Dr. Salvador Outside Chief's House)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14442,7 +14429,7 @@
     {
         "name": "Red Herb (Shack After Dr. Salvador)",
         "category": [
-            "Separate Ways, Herb, Ch. 2",
+            "Separate Ways Herb, Ch. 2",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14451,7 +14438,7 @@
     {
         "name": "Gold (Southwest Village Shack)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14460,7 +14447,7 @@
     {
         "name": "Green Herb (Behind 2-Story Barn)",
         "category": [
-            "Separate Ways, Herb, Ch. 2",
+            "Separate Ways Herb, Ch. 2",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14469,7 +14456,7 @@
     {
         "name": "Green Herb (North Middle House)",
         "category": [
-            "Separate Ways, Herb, Ch. 2",
+            "Separate Ways Herb, Ch. 2",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14478,7 +14465,7 @@
     {
         "name": "Gold (North Middle House - 1 (2nd Visit))",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14487,7 +14474,7 @@
     {
         "name": "Gold (North Middle House - 2 (2nd Visit))",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14496,7 +14483,7 @@
     {
         "name": "Gold (Behind Shotgun House)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14505,7 +14492,7 @@
     {
         "name": "Gold (Shotgun House 1F)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14514,7 +14501,7 @@
     {
         "name": "Gold (Behind Cow Barn)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14523,7 +14510,7 @@
     {
         "name": "Gold (Shack Next To Shotgun House (2nd Visit))",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14532,7 +14519,7 @@
     {
         "name": "Gold (Small Bedroom House)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14541,7 +14528,7 @@
     {
         "name": "Spinel (Well At Farm)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14550,7 +14537,7 @@
     {
         "name": "Spinel (Top Of Farm Cow Barn)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14559,7 +14546,7 @@
     {
         "name": "Gold (Hay Barn 1F) - 1",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14568,7 +14555,7 @@
     {
         "name": "Gold (Hay Barn 1F) - 2",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14577,7 +14564,7 @@
     {
         "name": "Gold (Hay Barn 1F) - 3",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14586,7 +14573,7 @@
     {
         "name": "Gold Bangle (Outside Hay Barn)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14595,7 +14582,7 @@
     {
         "name": "Beerstein (Barrel On Bridge)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14604,7 +14591,7 @@
     {
         "name": "Spinel (Outside Dynamite House)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14613,7 +14600,7 @@
     {
         "name": "Spinel (Bird Nest Outside Captive House)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14622,7 +14609,7 @@
     {
         "name": "Gold (Outside Dynamite House)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14631,7 +14618,7 @@
     {
         "name": "Spinel (Front Of Shack At Farm (2nd Visit))",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14640,7 +14627,7 @@
     {
         "name": "Green Catseye (Cavern Chest)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14649,8 +14636,7 @@
     {
         "name": "Iron Key",
         "category": [
-            "Separate Ways Key Item",
-            "Separate Ways"
+            "Separate Ways Key Item"
         ],
         "region": "Separate Ways Ch. 2",
         "requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia|"
@@ -14658,7 +14644,7 @@
     {
         "name": "Yellow Herb (Lifts Control Station)",
         "category": [
-            "Separate Ways, Herb, Ch. 2",
+            "Separate Ways Herb, Ch. 2",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14667,7 +14653,7 @@
     {
         "name": "Red Catseye (Outside Large Barn)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14676,7 +14662,7 @@
     {
         "name": "Red Herb (Large Barn 2F)",
         "category": [
-            "Separate Ways, Herb, Ch. 2",
+            "Separate Ways Herb, Ch. 2",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14685,8 +14671,7 @@
     {
         "name": "Lift Activation Key",
         "category": [
-            "Separate Ways Key Item",
-            "Separate Ways"
+            "Separate Ways Key Item"
         ],
         "region": "Separate Ways Ch. 2",
         "requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia| AND |Iron Key|"
@@ -14694,7 +14679,7 @@
     {
         "name": "Spinel (Outside Door To Castle)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14703,7 +14688,7 @@
     {
         "name": "Gold (Next To Merchant Near Door To Castle)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14712,7 +14697,7 @@
     {
         "name": "Spinel (Barrel In El Gigante Path)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14721,7 +14706,7 @@
     {
         "name": "Yellow Catseye (El Gigante Path)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14730,7 +14715,7 @@
     {
         "name": "Gold (El Gigante Reward Drop)",
         "category": [
-            "Separate Ways, Treasure, Ch. 2",
+            "Separate Ways Tresure, Ch. 2",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14739,7 +14724,7 @@
     {
         "name": "Green Herb (El Gigante Path)",
         "category": [
-            "Separate Ways, Herb, Ch. 2",
+            "Separate Ways Herb, Ch. 2",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14748,7 +14733,7 @@
     {
         "name": "Red Herb (El Gigante Path)",
         "category": [
-            "Separate Ways, Herb, Ch. 2",
+            "Separate Ways Herb, Ch. 2",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 2",
@@ -14757,8 +14742,7 @@
     {
         "name": "Chapter 2 Complete",
         "category": [
-            "Separate Ways, Chapter Complete",
-            "Separate Ways"
+            "Separate Ways Chapter Complete"
         ],
         "region": "Separate Ways Ch. 2",
         "place_item": [
@@ -15174,7 +15158,7 @@
     {
         "name": "Green Herb (Garden Maze)",
         "category": [
-            "Separate Ways, Herb, Ch. 3",
+            "Separate Ways Herb, Ch. 3",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15183,7 +15167,7 @@
     {
         "name": "Red Herb (Garden Maze)",
         "category": [
-            "Separate Ways, Herb, Ch. 3",
+            "Separate Ways Herb, Ch. 3",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15192,7 +15176,7 @@
     {
         "name": "Yellow Herb (Garden Maze)",
         "category": [
-            "Separate Ways, Herb, Ch. 3",
+            "Separate Ways Herb, Ch. 3",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15201,7 +15185,7 @@
     {
         "name": "Gold (Red-Robed Ganado In Maze) - 1",
         "category": [
-            "Separate Ways, Treasure, Ch. 3",
+            "Separate Ways Tresure, Ch. 3",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15210,7 +15194,7 @@
     {
         "name": "Gold (Red-Robed Ganado In Maze) - 2",
         "category": [
-            "Separate Ways, Treasure, Ch. 3",
+            "Separate Ways Tresure, Ch. 3",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15219,7 +15203,7 @@
     {
         "name": "Gold (Red-Robed Ganado In Maze) - 3",
         "category": [
-            "Separate Ways, Treasure, Ch. 3",
+            "Separate Ways Tresure, Ch. 3",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15228,7 +15212,7 @@
     {
         "name": "Gold (Red-Robed Ganado In Maze) - 4",
         "category": [
-            "Separate Ways, Treasure, Ch. 3",
+            "Separate Ways Tresure, Ch. 3",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15237,7 +15221,7 @@
     {
         "name": "Gold Bangle W/ Pearls (Upper Maze Chest)",
         "category": [
-            "Separate Ways, Treasure, Ch. 3",
+            "Separate Ways Tresure, Ch. 3",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15246,7 +15230,7 @@
     {
         "name": "Elegant Perfume Bottle (Canopy Bed In Typewriter Bedroom)",
         "category": [
-            "Separate Ways, Treasure, Ch. 3",
+            "Separate Ways Tresure, Ch. 3",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15255,7 +15239,7 @@
     {
         "name": "Gold (Red-Robed Ganado, Exterior Wall) - 1",
         "category": [
-            "Separate Ways, Treasure, Ch. 3",
+            "Separate Ways Tresure, Ch. 3",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15264,7 +15248,7 @@
     {
         "name": "Gold (Red-Robed Ganado, Exterior Wall) - 2",
         "category": [
-            "Separate Ways, Treasure, Ch. 3",
+            "Separate Ways Tresure, Ch. 3",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15273,8 +15257,7 @@
     {
         "name": "Hourglass W/ Gold Decor (Locked Room)",
         "category": [
-            "Separate Ways Key Item",
-            "Separate Ways"
+            "Separate Ways Key Item"
         ],
         "region": "Separate Ways Ch. 3",
         "requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia| AND |Iron Key| AND |Lift Activation Key|"
@@ -15282,7 +15265,7 @@
     {
         "name": "Yellow Herb (Locked Room)",
         "category": [
-            "Separate Ways, Herb, Ch. 3",
+            "Separate Ways Herb, Ch. 3",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15291,7 +15274,7 @@
     {
         "name": "Green Herb (Kitchen W/ Merchant) - 1",
         "category": [
-            "Separate Ways, Herb, Ch. 3",
+            "Separate Ways Herb, Ch. 3",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15300,7 +15283,7 @@
     {
         "name": "Green Herb (Kitchen W/ Merchant) - 2",
         "category": [
-            "Separate Ways, Herb, Ch. 3",
+            "Separate Ways Herb, Ch. 3",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15309,7 +15292,7 @@
     {
         "name": "Gold (Kitchen W/ Merchant) - 1",
         "category": [
-            "Separate Ways, Treasure, Ch. 3",
+            "Separate Ways Tresure, Ch. 3",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15318,7 +15301,7 @@
     {
         "name": "Gold (Kitchen W/ Merchant) - 2",
         "category": [
-            "Separate Ways, Treasure, Ch. 3",
+            "Separate Ways Tresure, Ch. 3",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15327,7 +15310,7 @@
     {
         "name": "Green Herb (Dining Hall Second Table)",
         "category": [
-            "Separate Ways, Herb, Ch. 3",
+            "Separate Ways Herb, Ch. 3",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15336,7 +15319,7 @@
     {
         "name": "Green Herb (Caged Room W/ Garrador)",
         "category": [
-            "Separate Ways, Herb, Ch. 3",
+            "Separate Ways Herb, Ch. 3",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15345,7 +15328,7 @@
     {
         "name": "Ruby (Garrador Reward Drop)",
         "category": [
-            "Separate Ways, Treasure, Ch. 3",
+            "Separate Ways Tresure, Ch. 3",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15354,7 +15337,7 @@
     {
         "name": "Elegant Chessboard (Behind 1F Pillar After Seeing Leon)",
         "category": [
-            "Separate Ways, Treasure, Ch. 3",
+            "Separate Ways Tresure, Ch. 3",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15363,7 +15346,7 @@
     {
         "name": "Spinel (Vase In Long Merchant Hallway)",
         "category": [
-            "Separate Ways, Treasure, Ch. 3",
+            "Separate Ways Tresure, Ch. 3",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 3",
@@ -15372,8 +15355,7 @@
     {
         "name": "Chapter 3 Complete",
         "category": [
-            "Separate Ways, Chapter Complete",
-            "Separate Ways"
+            "Separate Ways Chapter Complete"
         ],
         "region": "Separate Ways Ch. 3",
         "place_item": [
@@ -15870,7 +15852,7 @@
     {
         "name": "Green Herb (Second Storage Room)",
         "category": [
-            "Separate Ways, Herb, Ch. 4",
+            "Separate Ways Herb, Ch. 4",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 4",
@@ -15879,7 +15861,7 @@
     {
         "name": "Velvet Blue (On Ground Of Bulldozer Path)",
         "category": [
-            "Separate Ways, Treasure, Ch. 4",
+            "Separate Ways Tresure, Ch. 4",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 4",
@@ -15888,7 +15870,7 @@
     {
         "name": "Yellow Herb (Room Near Debris)",
         "category": [
-            "Separate Ways, Herb, Ch. 4",
+            "Separate Ways Herb, Ch. 4",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 4",
@@ -15897,7 +15879,7 @@
     {
         "name": "Golden Lynx (Among Bulldozer Wreckage)",
         "category": [
-            "Separate Ways, Treasure, Ch. 4",
+            "Separate Ways Tresure, Ch. 4",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 4",
@@ -15906,8 +15888,7 @@
     {
         "name": "Activation Key (Blue)",
         "category": [
-            "Separate Ways Key Item",
-            "Separate Ways"
+            "Separate Ways Key Item"
         ],
         "region": "Separate Ways Ch. 4",
         "requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia| AND |Iron Key| AND |Lift Activation Key| AND |Hourglass w/ Gold Decor|"
@@ -15915,7 +15896,7 @@
     {
         "name": "Velvet Blue (Battleship Dock 2F)",
         "category": [
-            "Separate Ways, Treasure, Ch. 4",
+            "Separate Ways Tresure, Ch. 4",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 4",
@@ -15924,7 +15905,7 @@
     {
         "name": "Gold (Battleship Dock 2F)",
         "category": [
-            "Separate Ways, Treasure, Ch. 4",
+            "Separate Ways Tresure, Ch. 4",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 4",
@@ -15933,7 +15914,7 @@
     {
         "name": "Red Herb (Battleship Dock 2F)",
         "category": [
-            "Separate Ways, Herb, Ch. 4",
+            "Separate Ways Herb, Ch. 4",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 4",
@@ -15942,7 +15923,7 @@
     {
         "name": "Green Herb (Battleship Dock 3F)",
         "category": [
-            "Separate Ways, Herb, Ch. 4",
+            "Separate Ways Herb, Ch. 4",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 4",
@@ -15951,7 +15932,7 @@
     {
         "name": "Green Herb (Battleship 1F)",
         "category": [
-            "Separate Ways, Herb, Ch. 4",
+            "Separate Ways Herb, Ch. 4",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 4",
@@ -15960,7 +15941,7 @@
     {
         "name": "Red Herb (Battleship 3F)",
         "category": [
-            "Separate Ways, Herb, Ch. 4",
+            "Separate Ways Herb, Ch. 4",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 4",
@@ -15969,8 +15950,7 @@
     {
         "name": "Activation Key (Red)",
         "category": [
-            "Separate Ways Key Item",
-            "Separate Ways"
+            "Separate Ways Key Item"
         ],
         "region": "Separate Ways Ch. 4",
         "requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia| AND |Iron Key| AND |Lift Activation Key| AND |Hourglass w/ Gold Decor|"
@@ -15978,7 +15958,7 @@
     {
         "name": "Green Herb (Industry Site Entrance)",
         "category": [
-            "Separate Ways, Herb, Ch. 4",
+            "Separate Ways Herb, Ch. 4",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 4",
@@ -15987,7 +15967,7 @@
     {
         "name": "Velvet Blue (Below Industry Site Catwalk)",
         "category": [
-            "Separate Ways, Treasure, Ch. 4",
+            "Separate Ways Tresure, Ch. 4",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 4",
@@ -15996,7 +15976,7 @@
     {
         "name": "Green Stone Of Judgment (Industry Site Outside Sniper Tower)",
         "category": [
-            "Separate Ways, Treasure, Ch. 4",
+            "Separate Ways Tresure, Ch. 4",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 4",
@@ -16005,7 +15985,7 @@
     {
         "name": "Gold (Industry Site Inside Sniper Tower)",
         "category": [
-            "Separate Ways, Treasure, Ch. 4",
+            "Separate Ways Tresure, Ch. 4",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 4",
@@ -16014,7 +15994,7 @@
     {
         "name": "Yellow Herb (Industry Site Catwalk) - 2",
         "category": [
-            "Separate Ways, Herb, Ch. 4",
+            "Separate Ways Herb, Ch. 4",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 4",
@@ -16023,7 +16003,7 @@
     {
         "name": "Gold (Near Mess Hall Door)",
         "category": [
-            "Separate Ways, Treasure, Ch. 4",
+            "Separate Ways Tresure, Ch. 4",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 4",
@@ -16032,7 +16012,7 @@
     {
         "name": "Red Stone Of Faith (Mess Hall Briefcase)",
         "category": [
-            "Separate Ways, Treasure, Ch. 4",
+            "Separate Ways Tresure, Ch. 4",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 4",
@@ -16041,7 +16021,7 @@
     {
         "name": "Yellow Herb (Mess Hall Near Wreckage)",
         "category": [
-            "Separate Ways, Herb, Ch. 4",
+            "Separate Ways Herb, Ch. 4",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 4",
@@ -16050,7 +16030,7 @@
     {
         "name": "Blue Stone Of Treason (Stairwell Skylight Panel)",
         "category": [
-            "Separate Ways, Treasure, Ch. 4",
+            "Separate Ways Tresure, Ch. 4",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 4",
@@ -16059,7 +16039,7 @@
     {
         "name": "Green Herb (Door Below Catwalk)",
         "category": [
-            "Separate Ways, Herb, Ch. 4",
+            "Separate Ways Herb, Ch. 4",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 4",
@@ -16068,7 +16048,7 @@
     {
         "name": "Velvet Blue (On Ground Before Krauser Cutscene)",
         "category": [
-            "Separate Ways, Treasure, Ch. 4",
+            "Separate Ways Tresure, Ch. 4",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 4",
@@ -16077,8 +16057,7 @@
     {
         "name": "Chapter 4 Complete",
         "category": [
-            "Separate Ways, Chapter Complete",
-            "Separate Ways"
+            "Separate Ways Chapter Complete"
         ],
         "region": "Separate Ways Ch. 4",
         "place_item": [
@@ -16521,7 +16500,7 @@
     {
         "name": "Velvet Blue (Barrel In Front Of Gunner Building)",
         "category": [
-            "Separate Ways, Treasure, Ch. 5",
+            "Separate Ways Tresure, Ch. 5",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16530,7 +16509,7 @@
     {
         "name": "Blue Eye (Container On Top Of Gunner Building)",
         "category": [
-            "Separate Ways, Treasure, Ch. 5",
+            "Separate Ways Tresure, Ch. 5",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16539,7 +16518,7 @@
     {
         "name": "Red Herb (On Top Of Building W/ Dynamite Ganado)",
         "category": [
-            "Separate Ways, Herb, Ch. 5",
+            "Separate Ways Herb, Ch. 5",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16548,7 +16527,7 @@
     {
         "name": "Yellow Herb (Building W/ Dynamite Ganado Bottom Of Ladder)",
         "category": [
-            "Separate Ways, Herb, Ch. 5",
+            "Separate Ways Herb, Ch. 5",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16557,7 +16536,7 @@
     {
         "name": "Green Herb (Encampment Central Tower)",
         "category": [
-            "Separate Ways, Herb, Ch. 5",
+            "Separate Ways Herb, Ch. 5",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16566,7 +16545,7 @@
     {
         "name": "Red Herb (Encampment Tent Area)",
         "category": [
-            "Separate Ways, Herb, Ch. 5",
+            "Separate Ways Herb, Ch. 5",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16575,7 +16554,7 @@
     {
         "name": "Yellow Herb (Encampment Tent Area)",
         "category": [
-            "Separate Ways, Herb, Ch. 5",
+            "Separate Ways Herb, Ch. 5",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16584,7 +16563,7 @@
     {
         "name": "Velvet Blue (Encampment Tent Area)",
         "category": [
-            "Separate Ways, Treasure, Ch. 5",
+            "Separate Ways Tresure, Ch. 5",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16593,8 +16572,7 @@
     {
         "name": "Green Herb (On Ground In Turret Grounds)",
         "category": [
-            "Separate Ways, Herb, Ch. 5",
-            "Separate Ways",
+            "Separate Ways Herb, Ch. 5",
             "Herb"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16603,9 +16581,8 @@
     {
         "name": "Green Herb (Near Gate In Turret Grounds)",
         "category": [
-            "Separate Ways, Herb, Ch. 5",
-            "Separate Ways",
-            "Herb"
+            "Separate Ways Herb, Ch. 5",
+            "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 5",
         "requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia| AND |Iron Key| AND |Lift Activation Key| AND |Hourglass w/ Gold Decor| AND |Activation Key (Blue)| AND |Activation Key (Red)|"
@@ -16613,7 +16590,7 @@
     {
         "name": "Gold (Near Ladder In Turret Grounds)",
         "category": [
-            "Separate Ways, Treasure, Ch. 5",
+            "Separate Ways Tresure, Ch. 5",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16622,7 +16599,7 @@
     {
         "name": "Gold (Gatling Gunner Drop) - 1",
         "category": [
-            "Separate Ways, Treasure, Ch. 5",
+            "Separate Ways Tresure, Ch. 5",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16631,7 +16608,7 @@
     {
         "name": "Gold (Gatling Gunner Drop) - 2",
         "category": [
-            "Separate Ways, Treasure, Ch. 5",
+            "Separate Ways Tresure, Ch. 5",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16640,7 +16617,7 @@
     {
         "name": "Green Herb (Temple Ruins By Rocket Launcher Ganado)",
         "category": [
-            "Separate Ways, Herb, Ch. 5",
+            "Separate Ways Herb, Ch. 5",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16649,7 +16626,7 @@
     {
         "name": "Yellow Herb (Temple Ruins Near Exit)",
         "category": [
-            "Separate Ways, Herb, Ch. 5",
+            "Separate Ways Herb, Ch. 5",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16658,7 +16635,7 @@
     {
         "name": "Red Eye (Temple Ruins On Pillar)",
         "category": [
-            "Separate Ways, Treasure, Ch. 5",
+            "Separate Ways Tresure, Ch. 5",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16667,7 +16644,7 @@
     {
         "name": "Yellow Herb (Side Room In Cell Area)",
         "category": [
-            "Separate Ways, Herb, Ch. 5",
+            "Separate Ways Herb, Ch. 5",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16676,7 +16653,7 @@
     {
         "name": "Red Herb (End Of Cells Hallway)",
         "category": [
-            "Separate Ways, Herb, Ch. 5",
+            "Separate Ways Herb, Ch. 5",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16685,7 +16662,7 @@
     {
         "name": "Green Eye (Back Right Cell)",
         "category": [
-            "Separate Ways, Treasure, Ch. 5",
+            "Separate Ways Tresure, Ch. 5",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16694,7 +16671,7 @@
     {
         "name": "Green Herb (Tower 2 During Krauser Fight)",
         "category": [
-            "Separate Ways, Herb, Ch. 5",
+            "Separate Ways Herb, Ch. 5",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16703,7 +16680,7 @@
     {
         "name": "Butterfly Lamp (On Ground After Tower Escape)",
         "category": [
-            "Separate Ways, Treasure, Ch. 5",
+            "Separate Ways Tresure, Ch. 5",
             "Separate Ways Treasure"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16712,7 +16689,7 @@
     {
         "name": "Green Herb (Near Merchant Before Saddler Fight)",
         "category": [
-            "Separate Ways, Herb, Ch. 5",
+            "Separate Ways Herb, Ch. 5",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16721,7 +16698,7 @@
     {
         "name": "Green Herb (Laboratory 1F Back Wall)",
         "category": [
-            "Separate Ways, Herb, Ch. 5",
+            "Separate Ways Herb, Ch. 5",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16730,7 +16707,7 @@
     {
         "name": "Red Herb (Laboratory On Sloped Floor)",
         "category": [
-            "Separate Ways, Herb, Ch. 5",
+            "Separate Ways Herb, Ch. 5",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16739,7 +16716,7 @@
     {
         "name": "Green Herb (Construction Catwalk)",
         "category": [
-            "Separate Ways, Herb, Ch. 5",
+            "Separate Ways Herb, Ch. 5",
             "Separate Ways Herb"
         ],
         "region": "Separate Ways Ch. 5",
@@ -16748,8 +16725,7 @@
     {
         "name": "Special Rocket Launcher (Ada)",
         "category": [
-            "Separate Ways Key Item",
-            "Separate Ways"
+            "Separate Ways Key Item"
         ],
         "region": "Separate Ways Ch. 5",
         "requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia| AND |Iron Key| AND |Lift Activation Key| AND |Hourglass w/ Gold Decor| AND |Activation Key (Blue)| AND |Activation Key (Red)|"
@@ -16757,8 +16733,7 @@
     {
         "name": "Chapter 5 Complete",
         "category": [
-            "Separate Ways, Chapter Complete",
-            "Separate Ways"
+            "Separate Ways Chapter Complete"
         ],
         "region": "Separate Ways Ch. 5",
         "place_item": [
@@ -16769,8 +16744,7 @@
     {
         "name": "Separate Ways Complete",
         "category": [
-            "Separate Ways, Chapter Complete",
-            "Separate Ways"
+            "Separate Ways Chapter Complete"
         ],
         "place_item": [
             "Separate Ways Complete"
