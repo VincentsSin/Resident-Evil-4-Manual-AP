@@ -85,12 +85,15 @@
     },
     "Merchant Upgrade": {
         "yaml_option": [
-            "Merchant_Upgrades"
+            "Merchant_Upgrades",
+            "Merchant_Weapons"
         ]
     },
     "Merchant Exclusive Upgrade": {
         "yaml_option": [
-            "Merchant_Exclusives"
+            "Merchant_Exclusives",
+            "Merchant_Weapons",
+            "Merchant_Upgrades"
         ]
     },
     "Matilda": {
