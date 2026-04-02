@@ -724,35 +724,35 @@
     {
         "name": "Exclusive Upgrade (Handgun)",
         "category": [
-            "Merchant Exclusive"
+            "Merchant Exclusive Upgrade"
         ],
         "progression": true
     },
     {
         "name": "Exclusive Upgrade (Red9)",
         "category": [
-            "Merchant Exclusive"
+            "Merchant Exclusive Upgrade"
         ],
         "progression": true
     },
     {
         "name": "Exclusive Upgrade (Punisher)",
         "category": [
-            "Merchant Exclusive"
+            "Merchant Exclusive Upgrade"
         ],
         "progression": true
     },
     {
         "name": "Exclusive Upgrade (Blacktail)",
         "category": [
-            "Merchant Exclusive"
+            "Merchant Exclusive Upgrade"
         ],
         "progression": true
     },
     {
         "name": "Exclusive Upgrade (Matilda)",
         "category": [
-            "Merchant Exclusive",
+            "Merchant Exclusive Upgrade",
 			"Matilda"
         ],
         "progression": true
@@ -760,21 +760,21 @@
     {
         "name": "Exclusive Upgrade (Broken Butterfly)",
         "category": [
-            "Merchant Exclusive"
+            "Merchant Exclusive Upgrade"
         ],
         "progression": true
     },
 	{
 		"name": "Exclusive Upgrade (Mine Thrower)",
 		"category": [
-			"Merchant Exclusive"
+			"Merchant Exclusive Upgrade"
 		],
 		"progression": true
 	},
     {
         "name": "Exclusive Upgrade (Handcannon)",
         "category": [
-            "Merchant Exclusive",
+            "Merchant Exclusive Upgrade",
 			"Handcannon"
         ],
         "progression": true
@@ -782,42 +782,42 @@
     {
         "name": "Exclusive Upgrade (Shotgun)",
         "category": [
-            "Merchant Exclusive"
+            "Merchant Exclusive Upgrade"
         ],
         "progression": true
     },
     {
         "name": "Exclusive Upgrade (Riot Gun)",
         "category": [
-            "Merchant Exclusive"
+            "Merchant Exclusive Upgrade"
         ],
         "progression": true
     },
     {
         "name": "Exclusive Upgrade (Striker)",
         "category": [
-            "Merchant Exclusive"
+            "Merchant Exclusive Upgrade"
         ],
         "progression": true
     },
     {
         "name": "Exclusive Upgrade (Rifle)",
         "category": [
-            "Merchant Exclusive"
+            "Merchant Exclusive Upgrade"
         ],
         "progression": true
     },
     {
         "name": "Exclusive Upgrade (Semi-Auto Rifle)",
         "category": [
-            "Merchant Exclusive"
+            "Merchant Exclusive Upgrade"
         ],
         "progression": true
     },
     {
         "name": "Exclusive Upgrade (TMP)",
         "category": [
-            "Merchant Exclusive"
+            "Merchant Exclusive Upgrade"
         ],
         "progression": true
     },
