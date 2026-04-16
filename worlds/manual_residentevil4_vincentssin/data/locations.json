@@ -614,7 +614,7 @@
         "region": "Chapter 1-1"
     },
     {
-        "name": "Crow; First Group Before Village - 1",
+        "name": "Crow (First Group Before Village) - 1",
         "category": [
             "Animal",
 			"Animal, Ch. 1"
@@ -622,7 +622,7 @@
         "region": "Chapter 1-1"
     },
     {
-        "name": "Crow; First Group Before Village - 2",
+        "name": "Crow (First Group Before Village) - 2",
         "category": [
             "Animal",
 			"Animal, Ch. 1"
@@ -630,7 +630,7 @@
         "region": "Chapter 1-1"
     },
     {
-        "name": "Crow; Second Group Before Village - 1",
+        "name": "Crow (First Group Before Village) - 3",
         "category": [
             "Animal",
 			"Animal, Ch. 1"
@@ -638,7 +638,7 @@
         "region": "Chapter 1-1"
     },
     {
-        "name": "Crow; Second Group Before Village - 2",
+        "name": "Crow (Second Group Before Village) - 1",
         "category": [
             "Animal",
 			"Animal, Ch. 1"
@@ -646,7 +646,15 @@
         "region": "Chapter 1-1"
     },
     {
-        "name": "Crow; Second Group Before Village - 3",
+        "name": "Crow (Second Group Before Village) - 2",
+        "category": [
+            "Animal",
+			"Animal, Ch. 1"
+        ],
+        "region": "Chapter 1-1"
+    },
+    {
+        "name": "Crow (Second Group Before Village) - 3",
         "category": [
             "Animal",
 			"Animal, Ch. 1"
@@ -662,7 +670,7 @@
         "region": "Chapter 1-1"
     },
     {
-        "name": "Spinel On Roof Of Shotgun House",
+        "name": "Spinel (Shotgun House Roof (Leon))",
         "category": [
             "Treasure, Ch. 1",
             "Treasure Location"
@@ -2031,7 +2039,7 @@
 		"requires": "|Emblem (Left Half)| AND |Emblem (Right Half)|"
     },
     {
-        "name": "Crow Near Brass Pocket Watch - 1",
+        "name": "Crow (Near Brass Pocket Watch) - 1",
         "category": [
             "Animal",
 			"Animal, Ch. 1"
@@ -2040,7 +2048,7 @@
 		"requires": "|Emblem (Left Half)| AND |Emblem (Right Half)|"
     },
     {
-        "name": "Crow Near Brass Pocket Watch - 2",
+        "name": "Crow (Near Brass Pocket Watch) - 2",
         "category": [
             "Animal",
 			"Animal, Ch. 1"
@@ -2049,7 +2057,7 @@
 		"requires": "|Emblem (Left Half)| AND |Emblem (Right Half)|"
     },
     {
-        "name": "Crow Near Brass Pocket Watch - 3",
+        "name": "Crow (Near Brass Pocket Watch) - 3",
         "category": [
             "Animal",
 			"Animal, Ch. 1"
@@ -5019,7 +5027,7 @@
             "Merchant Weapon"
         ],
         "region": "Chapter 3-1 Merchant A",
-        "requires": "({YamlDisabled(New_Game_Plus)} AND |Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Mine Thrower|) OR ({YamlEnabled(New_Game_Plus)} AND |Broken Butterfly|)"
+        "requires": "({YamlDisabled(New_Game_Plus)} AND |Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Mine Thrower|) OR ({YamlEnabled(New_Game_Plus)} AND |Mine Thrower|)"
     },
     {
         "name": "Scope (Semi-Auto Rifle)",
@@ -7618,7 +7626,7 @@
         "region": "Chapter 3-3"
     },
 	{
-        "name": "Egg (Castle Kitchen Snake) ",
+        "name": "Egg (Castle Kitchen Snake)",
         "category": [
             "Ammo",
 			"Ammo, Ch. 3"
@@ -13339,7 +13347,7 @@
         "requires": "|Separate Ways|"
     },
     {
-        "name": "Spinel (Shotgun House Roof)",
+        "name": "Spinel (Shotgun House Roof (Ada))",
         "category": [
             "Separate Ways Tresure, Ch. 1",
             "Separate Ways Treasure"
@@ -13530,9 +13538,6 @@
             "Separate Ways Chapter Complete"
         ],
         "region": "Separate Ways Ch. 1",
-        "place_item": [
-            "Chapter 1 Complete"
-        ],
         "requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia|"
     },
 	{
@@ -14745,9 +14750,6 @@
             "Separate Ways Chapter Complete"
         ],
         "region": "Separate Ways Ch. 2",
-        "place_item": [
-            "Chapter 2 Complete"
-        ],
         "requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia| AND |Iron Key| AND |Lift Activation Key|"
     },
 	{
@@ -15358,9 +15360,6 @@
             "Separate Ways Chapter Complete"
         ],
         "region": "Separate Ways Ch. 3",
-        "place_item": [
-            "Chapter 3 Complete"
-        ],
         "requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia| AND |Iron Key| AND |Lift Activation Key| AND |Hourglass w/ Gold Decor|"
     },
 	{
@@ -16060,9 +16059,6 @@
             "Separate Ways Chapter Complete"
         ],
         "region": "Separate Ways Ch. 4",
-        "place_item": [
-            "Chapter 4 Complete"
-        ],
         "requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia| AND |Iron Key| AND |Lift Activation Key| AND |Hourglass w/ Gold Decor| AND |Activation Key (Blue)| AND |Activation Key (Red)|"
     },
 	{
@@ -16736,9 +16732,6 @@
             "Separate Ways Chapter Complete"
         ],
         "region": "Separate Ways Ch. 5",
-        "place_item": [
-            "Chapter 5 Complete"
-        ],
         "requires": "|Separate Ways| AND |Insignia Key| AND |Green Catseye| AND |Round Insignia| AND |Iron Key| AND |Lift Activation Key| AND |Hourglass w/ Gold Decor| AND |Activation Key (Blue)| AND |Activation Key (Red)| AND |Special Rocket Launcher|"
     },
     {
@@ -16749,7 +16742,7 @@
         "place_item": [
             "Separate Ways Complete"
         ],
-        "requires": "|Separate Ways| AND |Chapter 1 Complete| AND |Chapter 2 Complete| AND |Chapter 3 Complete| AND |Chapter 4 Complete| AND |Chapter 5 Complete|"
+        "requires": "|Separate Ways| AND ({YamlDisabled(SW_Chaptersanity)} OR ({YamlEnabled(SW_Chaptersanity)} AND |S.W. Chapter 2 Unlock| AND |S.W. Chapter 3 Unlock| AND |S.W. Chapter 4 Unlock| AND |S.W. Chapter 5 Unlock|) AND |Insignia Key| AND |Green Catseye| AND |Round Insignia| AND |Iron Key| AND |Lift Activation Key| AND |Hourglass w/ Gold Decor| AND |Activation Key (Blue)| AND |Activation Key (Red)| AND |Special Rocket Launcher|)"
     },
     {
         "name": "Village Center 1-Star Rank (Leon)",

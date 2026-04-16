@@ -38,7 +38,7 @@
 	"Separate Ways Crate": {
 		"hidden": true,
 		"yaml_option": [
-			"Add_SW_Cratesanity",
+			"SW_Cratesanity",
             "Separate_Ways"
 		]
 	},
@@ -51,7 +51,7 @@
 	"Separate Ways Animal": {
 		"hidden": true,
         "yaml_option": [
-            "Add_SW_Animalsanity",
+            "SW_Animalsanity",
             "Separate_Ways"
         ]
     },
@@ -69,10 +69,21 @@
 	"Separate Ways Ammo": {
 		"hidden": true,
 		"yaml_option": [
-			"Add_SW_Ammosanity",
+			"SW_Ammosanity",
             "Separate_Ways"
 		]
 	},
+    "Chapter Unlock": {
+        "yaml_option": [
+            "Chaptersanity"
+        ]
+    },
+    "Separate Ways Chapter Unlock": {
+        "yaml_option": [
+            "SW_Chaptersanity",
+            "Separate_Ways"
+        ]
+    },
     "Merchant Weapon": {
         "yaml_option": [
             "Merchant_Weapons"
