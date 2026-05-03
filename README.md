@@ -1,6 +1,6 @@
 # Resident Evil 4 Manual AP World Randomizer
 
-This randomizer is intended for use with the Archipelago randomizer system using the Manual Client installation. It currently uses any version of Resident Evil 4, console or Steam, with exception to Resident Evil 4 Remake.
+This randomizer is intended for use with the Archipelago randomizer system using the Manual Client installation. It currently uses any version of Resident Evil 4, console or Steam, with exception to Resident Evil 4 Remake. It is an entirely different game and the logic in this apworld will not translate to the Remake.
 
 ## How To Use
 
