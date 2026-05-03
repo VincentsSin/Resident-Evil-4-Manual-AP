@@ -4,7 +4,7 @@ This randomizer is intended for use with the Archipelago randomizer system using
 
 ## How To Use
 
-1.) Install the laytest stable Manual Client from the [Manual For Archipelago](https://github.com/ManualForArchipelago/Manual/releases) GitHub release page.
+1.) Install the latest stable Manual Client from the [Manual For Archipelago](https://github.com/ManualForArchipelago/Manual/releases) GitHub release page.
 This is installed same as any other apworld in your `custom_worlds` folder.
 
 2.) Install the `manual_residentevil4_vincentssin.apworld` in your `custom_worlds` folder and your modified `Resident Evil 4.yaml` into your `Players` folder. In order for the Manual Client to work properly, the yaml will need to be kept in this folder during your session.
