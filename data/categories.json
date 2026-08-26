@@ -1,0 +1,146 @@
+{
+    "Separate Ways Key Item": {
+        "yaml_option": [
+            "Separate_Ways"
+        ]
+    },
+    "Separate Ways Chapter Complete": {
+		"yaml_option": [
+			"Separate_Ways"
+		]
+	},
+    "Herb": {
+		"hidden": true
+    },
+	"Separate Ways Herb": {
+		"hidden": true,
+        "yaml_option": [
+            "Separate_Ways"
+        ]
+    },
+    "Treasure": {
+    },
+	"Treasure Location": {
+		"hidden": true
+	},
+    "Separate Ways Treasure": {
+		"hidden": true,
+        "yaml_option": [
+            "Separate_Ways"
+        ]
+    },
+	"Crate": {
+		"hidden": true,
+		"yaml_option": [
+			"Cratesanity"
+		]
+	},
+	"Separate Ways Crate": {
+		"hidden": true,
+		"yaml_option": [
+			"SW_Cratesanity",
+            "Separate_Ways"
+		]
+	},
+    "Animal": {
+		"hidden": true,
+        "yaml_option": [
+            "Animalsanity"
+        ]
+    },
+	"Separate Ways Animal": {
+		"hidden": true,
+        "yaml_option": [
+            "SW_Animalsanity",
+            "Separate_Ways"
+        ]
+    },
+	"Memo": {
+		"yaml_option": [
+			"Memosanity"
+		]
+	},
+	"Ammo": {
+		"hidden": true,
+		"yaml_option": [
+			"Ammosanity"
+		]
+	},
+	"Separate Ways Ammo": {
+		"hidden": true,
+		"yaml_option": [
+			"SW_Ammosanity",
+            "Separate_Ways"
+		]
+	},
+    "Chapter Unlock": {
+        "yaml_option": [
+            "Chaptersanity"
+        ]
+    },
+    "Separate Ways Chapter Unlock": {
+        "yaml_option": [
+            "SW_Chaptersanity",
+            "Separate_Ways"
+        ]
+    },
+    "Merchant Weapon": {
+        "yaml_option": [
+            "Merchant_Weapons"
+        ]
+    },
+	"Merchant Sidequest": {
+        "yaml_option": [
+            "Merchant_Sidequests"
+        ]
+    },
+    "Merchant Upgrade": {
+        "yaml_option": [
+            "Merchant_Upgrades",
+            "Merchant_Weapons"
+        ]
+    },
+    "Merchant Exclusive Upgrade": {
+        "yaml_option": [
+            "Merchant_Exclusives",
+            "Merchant_Weapons",
+            "Merchant_Upgrades"
+        ]
+    },
+    "Matilda": {
+        "yaml_option": [
+            "Matilda"
+        ]
+    },
+    "Infinite Launcher": {
+        "yaml_option": [
+            "Infinite_Launcher"
+        ]
+    },
+    "Chicago Typewriter": {
+        "yaml_option": [
+            "Chicago_Typewriter"
+        ]
+    },
+    "Handcannon": {
+        "yaml_option": [
+            "Handcannon"
+        ]
+    },
+    "P.R.L. 412": {
+        "yaml_option": [
+            "PRL_412"
+        ]
+    },
+	"Mercenaries": {
+		"yaml_option": [
+			"Mercenaries_Mode"
+		]
+	},
+	"New Game Plus": {
+		"hidden": true,
+		"yaml_option": [
+			"New_Game_Plus"
+		]
+	}
+}

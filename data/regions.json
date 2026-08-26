@@ -1,0 +1,301 @@
+{
+    "Chapter 1-1": {
+		"starting": true,
+        "connects_to": [
+            "Chapter 1-2",
+			"Chapter 1-1 Merchant",
+			"Chapter 1-2 Merchant",
+			"Chapter 1-3 Merchant A",
+			"Chapter 1-3 Merchant B",
+			"Chapter 2-1 Merchant",
+			"Chapter 2-2 Merchant",
+			"Chapter 3-1 Merchant A",
+			"Chapter 3-1 Merchant B",
+			"Chapter 3-1 Merchant C",
+			"Chapter 3-3 Merchant A",
+			"Chapter 3-3 Merchant B",
+			"Chapter 4-1 Merchant A",
+			"Chapter 4-1 Merchant B",
+			"Chapter 4-1 Merchant C",
+			"Chapter 4-2 Merchant",
+			"Chapter 4-3 Merchant",
+			"Chapter 4-4 Merchant A",
+			"Chapter 4-4 Merchant B",
+			"Chapter 5-1 Merchant A",
+			"Chapter 5-1 Merchant B",
+			"Chapter 5-3 Merchant A",
+			"Chapter 5-3 Merchant B",
+			"Separate Ways Ch. 1"
+        ],
+		"exit_requires": {
+			"Chapter 1-2": "({YamlEnabled(Chaptersanity)} AND |Progressive Chapter Unlock:1|) OR {YamlDisabled(Chaptersanity)}",
+			"Chapter 1-1 Merchant": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 1-2 Merchant": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 1-3 Merchant A": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 1-3 Merchant B": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 2-1 Merchant": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 2-2 Merchant": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 3-1 Merchant A": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 3-1 Merchant B": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 3-1 Merchant C": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 3-3 Merchant A": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 3-3 Merchant B": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 4-1 Merchant A": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 4-1 Merchant B": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 4-1 Merchant C": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 4-2 Merchant": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 4-3 Merchant": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 4-4 Merchant A": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 4-4 Merchant B": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 5-1 Merchant A": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 5-1 Merchant B": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 5-3 Merchant A": "{YamlEnabled(New_Game_Plus)}",
+			"Chapter 5-3 Merchant B": "{YamlEnabled(New_Game_Plus)}",
+			"Separate Ways Ch. 1": "({YamlEnabled(Separate_Ways)} AND |Separate Ways|) OR {YamlDisabled(SW_Chaptersanity)}"
+		}
+    },
+	"Chapter 1-1 Merchant": {
+		"connects_to": [
+			"Chapter 1-2"
+		]
+	},
+    "Chapter 1-2": {
+        "connects_to": [
+			"Chapter 1-2 Merchant",
+            "Chapter 1-3"
+        ],
+		"exit_requires": {
+			"Chapter 1-3": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND ({YamlDisabled(Chaptersanity)} OR ({YamlEnabled(Chaptersanity)} AND |Progressive Chapter Unlock:2|))"
+		}
+    },
+	"Chapter 1-2 Merchant": {
+    },
+    "Chapter 1-3": {
+        "connects_to": [
+            "Chapter 2-1",
+			"Chapter 1-3 Merchant A",
+			"Chapter 1-3 Merchant B"
+        ],
+		"exit_requires": {
+			"Chapter 2-1": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND ({YamlDisabled(Chaptersanity)} OR ({YamlEnabled(Chaptersanity)} AND |Progressive Chapter Unlock:3|))"
+		}
+    },
+	"Chapter 1-3 Merchant A": {
+    },
+	"Chapter 1-3 Merchant B": {
+	},
+    "Chapter 2-1": {
+        "connects_to": [
+            "Chapter 2-2",
+			"Chapter 2-1 Merchant"
+        ],
+		"exit_requires": {
+			"Chapter 2-2": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND ({YamlDisabled(Chaptersanity)} OR ({YamlEnabled(Chaptersanity)} AND |Progressive Chapter Unlock:4|))"
+		}
+    },
+	"Chapter 2-1 Merchant": {
+    },
+    "Chapter 2-2": {
+        "connects_to": [
+            "Chapter 2-3",
+			"Chapter 2-2 Merchant"
+        ],
+		"exit_requires": {
+			"Chapter 2-3": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND ({YamlDisabled(Chaptersanity)} OR ({YamlEnabled(Chaptersanity)} AND |Progressive Chapter Unlock:5|))"
+		}
+    },
+	"Chapter 2-2 Merchant": {
+    },
+    "Chapter 2-3": {
+        "connects_to": [
+            "Chapter 3-1"
+        ],
+		"exit_requires": {
+			"Chapter 3-1": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND ({YamlDisabled(Chaptersanity)} OR ({YamlEnabled(Chaptersanity)} AND |Progressive Chapter Unlock:6|))"
+		}
+    },
+    "Chapter 3-1": {
+        "connects_to": [
+            "Chapter 3-2",
+			"Chapter 3-1 Merchant A",
+			"Chapter 3-1 Merchant B",
+			"Chapter 3-1 Merchant C"
+        ],
+		"exit_requires": {
+			"Chapter 3-2": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND ({YamlDisabled(Chaptersanity)} OR ({YamlEnabled(Chaptersanity)} AND |Progressive Chapter Unlock:7|))"
+		}
+    },
+	"Chapter 3-1 Merchant A": {
+    },
+	"Chapter 3-1 Merchant B": {
+	},
+	"Chapter 3-1 Merchant C": {
+	},
+    "Chapter 3-2": {
+        "connects_to": [
+            "Chapter 3-3"
+        ],
+		"exit_requires": {
+			"Chapter 3-3": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND ({YamlDisabled(Chaptersanity)} OR ({YamlEnabled(Chaptersanity)} AND |Progressive Chapter Unlock:8|))"
+		}
+    },
+    "Chapter 3-3": {
+        "connects_to": [
+            "Chapter 3-4",
+			"Chapter 3-3 Merchant A",
+			"Chapter 3-3 Merchant B"
+        ],
+		"exit_requires": {
+			"Chapter 3-4": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND ({YamlDisabled(Chaptersanity)} OR ({YamlEnabled(Chaptersanity)} AND |Progressive Chapter Unlock:9|))"
+		}
+    },
+	"Chapter 3-3 Merchant A": {
+    },
+	"Chapter 3-3 Merchant B": {
+	},
+    "Chapter 3-4": {
+        "connects_to": [
+            "Chapter 4-1"
+        ],
+		"exit_requires": {
+			"Chapter 4-1": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Stone Tablet| AND |Salazar Family Insignia| AND |Serpent Ornament| AND ({YamlDisabled(Chaptersanity)} OR ({YamlEnabled(Chaptersanity)} AND |Progressive Chapter Unlock:10|))"
+		}
+    },
+    "Chapter 4-1": {
+        "connects_to": [
+            "Chapter 4-2",
+			"Chapter 4-1 Merchant A",
+			"Chapter 4-1 Merchant B",
+			"Chapter 4-1 Merchant C"
+        ],
+		"exit_requires": {
+			"Chapter 4-2": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Stone Tablet| AND |Serpent Ornament| AND |Salazar Family Insignia| AND |Lion Ornament| AND |Queen's Grail| AND |King's Grail| AND ({YamlDisabled(Chaptersanity)} OR ({YamlEnabled(Chaptersanity)} AND |Progressive Chapter Unlock:11|))"
+		}
+    },
+	"Chapter 4-1 Merchant A": {
+    },
+	"Chapter 4-1 Merchant B": {
+    },
+	"Chapter 4-1 Merchant C": {
+	},
+    "Chapter 4-2": {
+        "connects_to": [
+            "Chapter 4-3"
+        ],
+		"exit_requires": {
+			"Chapter 4-3": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Stone Tablet| AND |Salazar Family Insignia| AND |Serpent Ornament| AND |Lion Ornament| AND |Queen's Grail| AND |King's Grail| AND (|Dynamite| OR ({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(Infinite_Launcher)}) AND ({YamlDisabled(Chaptersanity)} OR ({YamlEnabled(Chaptersanity)} AND |Progressive Chapter Unlock:12|))"
+		}
+    },
+	"Chapter 4-2 Merchant": {
+    },
+    "Chapter 4-3": {
+        "connects_to": [
+            "Chapter 4-4",
+			"Chapter 4-3 Merchant"
+        ],
+		"exit_requires": {
+			"Chapter 4-4": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Stone Tablet| AND |Salazar Family Insignia| AND |Serpent Ornament| AND |Lion Ornament| AND |Queen's Grail| AND |King's Grail| AND (|Dynamite| OR ({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(Infinite_Launcher)})) AND |Key To The Mine| AND |Stone Of Sacrifice| AND ({YamlDisabled(Chaptersanity)} OR ({YamlEnabled(Chaptersanity)} AND |Progressive Chapter Unlock:13|))"
+		}
+    },
+	"Chapter 4-3 Merchant": {
+    },
+    "Chapter 4-4": {
+        "connects_to": [
+            "Chapter 5-1",
+			"Chapter 4-4 Merchant A",
+			"Chapter 4-4 Merchant B"
+        ],
+		"exit_requires": {
+			"Chapter 5-1": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Stone Tablet| AND |Salazar Family Insignia| AND |Serpent Ornament| AND |Lion Ornament| AND |Queen's Grail| AND |King's Grail| AND (|Dynamite| OR ({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(Infinite_Launcher)})) AND |Key To The Mine| AND |Stone Of Sacrifice| AND ({YamlDisabled(Chaptersanity)} OR ({YamlEnabled(Chaptersanity)} AND |Progressive Chapter Unlock:14|))"
+		}
+    },
+	"Chapter 4-4 Merchant A": {
+	},
+	"Chapter 4-4 Merchant B": {
+	},
+    "Chapter 5-1": {
+        "connects_to": [
+            "Chapter 5-2",
+			"Chapter 5-1 Merchant A",
+			"Chapter 5-1 Merchant B"
+        ],
+		"exit_requires": {
+			"Chapter 5-2": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Stone Tablet| AND |Salazar Family Insignia| AND |Serpent Ornament| AND |Lion Ornament| AND |Queen's Grail| AND |King's Grail| AND (|Dynamite| OR ({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(Infinite_Launcher)})) AND |Key To The Mine| AND |Stone Of Sacrifice| AND |Freezer Card Key| AND ((|Semi-Auto Rifle| AND |Infrared Scope|) OR (({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(Infinite_Launcher)}) OR ({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(Handcannon)}))) AND |Waste Disposal Card Key| AND |Storage Room Card Key| AND ({YamlDisabled(Chaptersanity)} OR ({YamlEnabled(Chaptersanity)} AND |Progressive Chapter Unlock:15|))"
+		}
+    },
+	"Chapter 5-1 Merchant A": {
+	},
+	"Chapter 5-1 Merchant B": {
+	},
+    "Chapter 5-2": {
+        "connects_to": [
+            "Chapter 5-3"
+        ],
+		"exit_requires": {
+			"Chapter 5-3": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Stone Tablet| AND |Salazar Family Insignia| AND |Serpent Ornament| AND |Lion Ornament| AND |Queen's Grail| AND |King's Grail| AND (|Dynamite| OR ({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(Infinite_Launcher)})) AND |Key To The Mine| AND |Stone Of Sacrifice| AND |Freezer Card Key| AND ((|Semi-Auto Rifle| AND |Infrared Scope|) OR (({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(Infinite_Launcher)}) OR ({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(Handcannon)}))) AND |Waste Disposal Card Key| AND |Storage Room Card Key| AND ({YamlDisabled(Chaptersanity)} OR ({YamlEnabled(Chaptersanity)} AND |Progressive Chapter Unlock:16|))"
+		}
+    },
+    "Chapter 5-3": {
+        "connects_to": [
+            "Chapter 5-4",
+			"Chapter 5-3 Merchant A",
+			"Chapter 5-3 Merchant B"
+        ],
+		"exit_requires": {
+			"Chapter 5-4": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Stone Tablet| AND |Salazar Family Insignia| AND |Serpent Ornament| AND |Lion Ornament| AND |Queen's Grail| AND |King's Grail| AND (|Dynamite| OR ({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(Infinite_Launcher)})) AND |Key To The Mine| AND |Stone Of Sacrifice| AND |Freezer Card Key| AND ((|Semi-Auto Rifle| AND |Infrared Scope|) OR (({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(Infinite_Launcher)}) OR ({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(Handcannon)}))) AND |Waste Disposal Card Key| AND |Storage Room Card Key| AND |Piece Of The Holy Beast Panther| AND |Piece Of The Holy Beast Eagle| AND |Piece Of The Holy Beast Serpent| AND ({YamlDisabled(Chaptersanity)} OR ({YamlEnabled(Chaptersanity)} AND |Progressive Chapter Unlock:17|))"
+		}
+    },
+	"Chapter 5-3 Merchant A": {
+    },
+	"Chapter 5-3 Merchant B": {
+    },
+    "Chapter 5-4": {
+        "connects_to": [
+            "Final Chapter"
+        ],
+		"exit_requires": {
+			"Final Chapter": "|Emblem (Left Half)| AND |Emblem (Right Half)| AND |Insignia Key| AND |Round Insignia| AND (|Old Key| OR |Camp Key|) AND |False Eye| AND |Gold Sword| AND |Platinum Sword| AND |Castle Gate Key| AND |Prison Key| AND |Gallery Key| AND |Goat Ornament| AND |Moonstone (Left Half)| AND |Moonstone (Right Half)| AND |Stone Tablet| AND |Salazar Family Insignia| AND |Serpent Ornament| AND |Lion Ornament| AND |Queen's Grail| AND |King's Grail| AND (|Dynamite| OR ({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(Infinite_Launcher)})) AND |Key To The Mine| AND |Stone Of Sacrifice| AND |Freezer Card Key| AND ((|Semi-Auto Rifle| AND |Infrared Scope|) OR (({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(Infinite_Launcher)}) OR ({YamlEnabled(New_Game_Plus)} AND {YamlEnabled(Handcannon)}))) AND |Waste Disposal Card Key| AND |Storage Room Card Key| AND |Piece Of The Holy Beast Panther| AND |Piece Of The Holy Beast Eagle| AND |Piece Of The Holy Beast Serpent| AND |Emergency Lock Card Key| AND ({YamlDisabled(Chaptersanity)} OR ({YamlEnabled(Chaptersanity)} AND |Progressive Chapter Unlock:18|))"
+		}
+    },
+    "Final Chapter": {
+    },
+    "Separate Ways Ch. 1": {
+		"starting": true,
+        "connects_to": [
+            "Separate Ways Ch. 2"
+        ],
+		"exit_requires": {
+			"Separate Ways Ch. 2": "|Separate Ways| AND ({YamlDisabled(SW_Chaptersanity)} OR ({YamlEnabled(SW_Chaptersanity)} AND |Progressive S.W. Chapter Unlock:1|))"
+		}
+    },
+    "Separate Ways Ch. 2": {
+        "connects_to": [
+            "Separate Ways Ch. 3"
+        ],
+		"exit_requires": {
+			"Separate Ways Ch. 3": "|Separate Ways| AND ({YamlDisabled(SW_Chaptersanity)} OR ({YamlEnabled(SW_Chaptersanity)} AND |Progressive S.W. Chapter Unlock:2|))"
+		}
+    },
+    "Separate Ways Ch. 3": {
+        "connects_to": [
+            "Separate Ways Ch. 4"
+        ],
+		"exit_requires": {
+			"Separate Ways Ch. 4": "|Separate Ways| AND ({YamlDisabled(SW_Chaptersanity)} OR ({YamlEnabled(SW_Chaptersanity)} AND |Progressive S.W. Chapter Unlock:3|))"
+		}
+    },
+    "Separate Ways Ch. 4": {
+        "connects_to": [
+            "Separate Ways Ch. 5"
+        ],
+		"exit_requires": {
+			"Separate Ways Ch. 5": "|Separate Ways| AND ({YamlDisabled(SW_Chaptersanity)} OR ({YamlEnabled(SW_Chaptersanity)} AND |Progressive S.W. Chapter Unlock:4|))"
+		}
+    },
+    "Separate Ways Ch. 5": {
+    },
+	"Mercenaries": {
+		"starting": true,
+		"requires": "|Mercenaries Mode|"
+	}
+}
