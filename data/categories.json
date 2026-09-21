@@ -108,28 +108,38 @@
         ]
     },
     "Matilda": {
+        "hidden": true,
         "yaml_option": [
-            "Matilda"
+            "Matilda",
+            "New_Game_Plus"
         ]
     },
     "Infinite Launcher": {
+        "hidden": true,
         "yaml_option": [
-            "Infinite_Launcher"
+            "Infinite_Launcher",
+            "New_Game_Plus"
         ]
     },
     "Chicago Typewriter": {
+        "hidden": true,
         "yaml_option": [
-            "Chicago_Typewriter"
+            "Chicago_Typewriter",
+            "New_Game_Plus"
         ]
     },
     "Handcannon": {
+        "hidden": true,
         "yaml_option": [
-            "Handcannon"
+            "Handcannon",
+            "New_Game_Plus"
         ]
     },
     "P.R.L. 412": {
+        "hidden": true,
         "yaml_option": [
-            "PRL_412"
+            "PRL_412",
+            "New_Game_Plus"
         ]
     },
 	"Mercenaries": {

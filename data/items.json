@@ -180,44 +180,48 @@
     {
         "name": "Matilda",
         "category": [
-            "Matilda"
+            "Matilda",
+            "Weapon"
         ],
         "progression": true
     },
     {
         "name": "Infinite Launcher",
         "category": [
-            "Infinite Launcher"
+            "Infinite Launcher",
+            "Weapon"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "name": "Chicago Typewriter",
         "category": [
-            "Chicago Typewriter"
+            "Chicago Typewriter",
+            "Weapon"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "name": "Handcannon",
         "category": [
-            "Handcannon"
+            "Handcannon",
+            "Weapon"
         ],
         "progression": true
     },
     {
         "name": "P.R.L. 412",
         "category": [
-            "P.R.L. 412"
+            "P.R.L. 412",
+            "Weapon"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "name": "Green Herb",
         "category": [
             "Healing"
         ],
-		"count": 108,
         "useful": true
     },
     {
@@ -225,7 +229,6 @@
         "category": [
             "Healing"
         ],
-		"count": 47,
         "useful": true
     },
     {
@@ -233,7 +236,6 @@
         "category": [
             "Healing"
         ],
-		"count": 38,
         "useful": true
     },
     {
@@ -241,7 +243,6 @@
         "category": [
             "Healing"
         ],
-		"count": 10,
         "useful": true
     },
     {
@@ -249,40 +250,35 @@
         "category": [
             "Healing"
         ],
-		"count": 13,
-        "normal": true
+        "useful": true
     },
     {
         "name": "Black Bass (L)",
         "category": [
             "Healing"
         ],
-		"count": 4,
-        "normal": true
+        "useful": true
     },
     {
         "name": "Chicken Egg",
         "category": [
             "Healing"
         ],
-		"count": 20,
-        "normal": true
+        "useful": true
     },
     {
         "name": "Brown Chicken Egg",
         "category": [
             "Healing"
         ],
-		"count": 4,
-        "normal": true
+        "useful": true
     },
     {
         "name": "Gold Chicken Egg",
         "category": [
             "Healing"
         ],
-		"count": 3,
-        "normal": true
+        "useful": true
     },
     {
         "name": "Progressive Firepower (Handgun)",

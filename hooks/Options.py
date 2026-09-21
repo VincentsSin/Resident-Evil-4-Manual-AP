@@ -27,107 +27,107 @@ from typing import Type, Any
 #
 class NewGamePlus(Toggle):
     """Mostly changes logical requirements for weapon upgrades, also adds upgrades for the Matilda and Handcannon if setting is enabled"""
-    display_name = "Use NG+ logic (mostly affects Merchant checks)."
+    display_name = "New Game Plus"
     default = True
 
 class Crates(Toggle):
     """Adds all crates, barrels, and vases to location pool. Some of these will be on top of herbs/treasures/ammo found within them. (470 locations)"""
-    display_name = "Include crates and vases in main story."
+    display_name = "Main Story Crates/Vases"
     default = False
 
 class Animals(Toggle):
     """Adds animals to the location pool (Crows, Fish, Snakes)  (110 locations)"""
-    display_name = "Include animal checks in main story."
-    default = False
-
-class Memos(Toggle):
-    """Adds memos and letters found around the game to item pool (excluding player manuals and NPC transmissions) (23 locations)"""
-    display_name = "Include memos from main story."
+    display_name = "Main Story Animals"
     default = False
 
 class Ammo(Toggle):
     """Adds main story guaranteed ammo pickup locations to the pool. (482 Locations)"""
-    display_name = "Include main story static ammo pickups."
+    display_name = "Main Story Ammo"
     default = False
 
 class Chapters(Toggle):
     """Turns main story chapters into required items for progression."""
-    display_name = "Require progressive chapters to advance main story."
+    display_name = "Main Story Chapters"
+    default = False
+
+class Memos(Toggle):
+    """Adds memos and letters found around the game to item pool (excluding player manuals and NPC transmissions) (23 locations)"""
+    display_name = "Memos"
     default = False
 
 class SeparateWays(Toggle):
     """Include "Separate Ways" herbs and treasures to location pool."""
-    display_name = "Add Separate Ways side-mission."
+    display_name = "Separate Ways"
     default = False
 
 class SeparateWaysCrates(Toggle):
     """Adds all Separate Ways crates, barrels, and vases to location pool. Some of these will be on top of herbs/treasures/ammo found within them. (119 locations)"""
-    display_name = "Include Separate Ways crates and vases."
+    display_name = "Separate Ways Crates/Vases."
     default = False
 
 class SeparateWaysAnimals(Toggle):
     """Adds Separate Ways animals to the location pool. (16 locations)"""
-    display_name = "Include Separate Ways animals."
+    display_name = "Separate Ways Animals."
     default = False
 
 class SeparateWaysAmmo(Toggle):
     """Adds Separate Ways guaranteed ammo pickup locations to the pool. (141 locations)"""
-    display_name = "Include Separate Ways static ammo drops."
+    display_name = "Separate Ways Ammo"
     default = False
 
 class SeparateWaysChapters(Toggle):
     """Turns Separate Ways chapters into required items for progression."""
-    display_name = "Require progressive chapters to advance Separate Ways."
+    display_name = "Separate Ways Chapters"
     default = False
 
 class Mercenaries(Toggle):
     """Include "Mercenaries" side-game to location pool. (202 locations)"""
-    display_name = "Add Mercenaries minigames."
+    display_name = "Mercenaries"
     default = False
 
-class EmblemCaps(Toggle):
+class MedallionCaps(Toggle):
     """Adds the blue medallions and bottle caps to the location pool. (39 locations)"""
-    display_name = "Collect blue medallions and bottle caps."
+    display_name = "Medallions/Bottle Caps"
     default = False
 
 class Weapons(Toggle):
     """Adds weapon purchases to the location pool, excluding NG+ weapons. (13 locations)"""
-    display_name = "Include weapon purchases."
+    display_name = "Merchant Weapons"
     default = False
 
 class Upgrades(Toggle):
     """Adds weapon upgrades to location pool (Recommended for New_Game_Plus only) (182 locations; 158 w/o Matilda & Handcannon))"""
-    display_name = "Include memos from main story."
+    display_name = "Merchant Upgrades"
     default = False
 
 class Exclusives(Toggle):
     """Any upgrades/exclusives purchased in prior saves can be marked off as soon as they become logically available and have been found/been sent required items. (14 locations; 12 w/o Matilda & Handcannon)"""
-    display_name = "Include memos from main story."
+    display_name = "Merchant Exclusives"
     default = False
 
 class Matilda(Toggle):
     """Affects Merchant logic if added while New_Game_Plus, Merchant_Weapons, and Merchant_Upgrades options are enabled."""
-    display_name = "Include the Matilda in starting inventory."
+    display_name = "Matilda"
     default = False
 
 class Handcannon(Toggle):
     """Affects Merchant logic if added while New_Game_Plus, Merchant_Weapons, and Merchant_Upgrades options are enabled."""
-    display_name = "Include the Handcannon in starting inventory."
+    display_name = "Handcannon"
     default = False
 
 class InfiniteLauncher(Toggle):
-    """Affects story progression logic."""
-    display_name = "Include the Infinite Launcher in starting inventory."
+    """Can affect story progression logic."""
+    display_name = "Infinite Launcher"
     default = False
 
 class ChicagoTypewriter(Toggle):
     """For fun, does not affect logic"""
-    display_name = "Include the Chicago Typewriter in starting inventory."
+    display_name = "Chicago Typewriter"
     default = False
 
 class PRL412(Toggle):
     """For fun, does not affect logic"""
-    display_name = "Include the P.R.L.-412 in starting inventory."
+    display_name = "P.R.L.-412"
     default = False
 
 class Death(Toggle):
@@ -138,9 +138,9 @@ class Death(Toggle):
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
     options["New_Game_Plus"] = NewGamePlus
+    options["Memosanity"] = Memos
     options["Cratesanity"] = Crates
     options["Animalsanity"] = Animals
-    options["Memosanity"] = Memos
     options["Ammosanity"] = Ammo
     options["Chaptersanity"] = Chapters
     options["Separate_Ways"] = SeparateWays
@@ -149,7 +149,7 @@ def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, T
     options["SW_Ammosanity"] = SeparateWaysAmmo
     options["SW_Chaptersanity"] = SeparateWaysChapters
     options["Mercenaries_Mode"] = Mercenaries
-    options["Merchant_Sidequests"] = EmblemCaps
+    options["Merchant_Sidequests"] = MedallionCaps
     options["Merchant_Weapons"] = Weapons
     options["Merchant_Upgrades"] = Upgrades
     options["Merchant_Exclusives"] = Exclusives
